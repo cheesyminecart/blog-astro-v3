@@ -20,7 +20,7 @@ This theme is written in vanilla JavaScript (+ TypeScript for type checking) and
 
 ## Features
 
-Here are certain features of this site.
+What more would one need? This website was a pain to make. God help me. 
 
 - fully responsive and accessible
 - SEO-friendly
