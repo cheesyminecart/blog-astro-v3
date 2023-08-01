@@ -22,8 +22,8 @@ if (Astro.request.method === "POST") {
 <Layout>
   <Header />
   <main id="subscribe-form">
-    <section id="subbox" color="#E0DCDB">
-      <h1>Register</h1>
+    <div id="subbox">
+      <h1 id="regHeader">Register</h1>
       <p>This blog is updated every so often! Be at the forefront of any developments we make.</p>
       <form name="contact" action="" method="POST" data-netlify="true">
         <p class="hidden">
@@ -40,35 +40,13 @@ if (Astro.request.method === "POST") {
           <button type="submit">Submit</button>
         </p>
       </form>
-    </section>
+    </div>
   </main>
 
   <Footer />
 </Layout>
 
 <style>
-  /* ===== Hero Section ===== */
-  #hero {
-    @apply pb-6 pt-8;
-  }
-  #hero h1 {
-    @apply my-4 inline-block text-3xl font-bold sm:my-8 sm:text-5xl;
-  }
-  #hero .rss-link {
-    @apply mb-6;
-  }
-  #hero .rss-icon {
-    @apply mb-2 h-6 w-6 scale-110 fill-skin-accent sm:mb-3 sm:scale-125;
-  }
-  #hero p {
-    @apply my-2;
-  }
-  .social-wrapper {
-    @apply mt-4 flex flex-col sm:flex-row sm:items-center;
-  }
-  .social-links {
-    @apply mb-1 mr-2 whitespace-nowrap sm:mb-0;
-  }
 
   input[type=email]{
     width: 40%;
@@ -76,10 +54,13 @@ if (Astro.request.method === "POST") {
     margin: 8px 0;
     box-sizing: border-box;
     font-size: large;
+    
   }
 
-  input[type=name]
+  .regHeader{
 
+
+  }
   .subbox{
     justify-content: center;
     display: flex;
@@ -88,5 +69,7 @@ if (Astro.request.method === "POST") {
     padding: 30px;
     background-color: #E0DCDB;
     font-size: x-large;
+    resize: both;
+    overflow: auto;
   }
 </style>
