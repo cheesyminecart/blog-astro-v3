@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://cheesyminecart-astro.netlify.app",
   author: "Sat Naing",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
+  title: "TheSpacer",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
