@@ -24,7 +24,7 @@ if (Astro.request.method === "POST") {
   <main id="subscribe-form">
     <section id="subbox" color="#E0DCDB">
       <h1>Register</h1>
-      <p>This blog is update</p>
+      <p>This blog is updated every so often! Be at the forefront of any developments we make.</p>
       <form name="contact" action="" method="POST" data-netlify="true">
         <p class="hidden">
           <label>
@@ -70,13 +70,15 @@ if (Astro.request.method === "POST") {
     @apply mb-1 mr-2 whitespace-nowrap sm:mb-0;
   }
 
-  input[type=email][type=name]{
+  input[type=email]{
     width: 40%;
     padding: 12px 20px;
     margin: 8px 0;
     box-sizing: border-box;
     font-size: large;
   }
+
+  input[type=name]
 
   .subbox{
     justify-content: center;
@@ -87,6 +89,4 @@ if (Astro.request.method === "POST") {
     background-color: #E0DCDB;
     font-size: x-large;
   }
-
-
 </style>
