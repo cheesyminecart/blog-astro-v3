@@ -19,12 +19,12 @@ if (Astro.request.method === "POST") {
 }
 ---
 
-
 <Layout>
   <Header />
   <main id="subscribe-form">
-    <section id="hero">
+    <section id="subbox" color="#E0DCDB">
       <h1><b>Register</b></h1>
+      <p>This blog is update</p>
       <form name="contact" action="" method="POST" data-netlify="true">
         <p class="hidden">
           <label>
@@ -69,5 +69,22 @@ if (Astro.request.method === "POST") {
   .social-links {
     @apply mb-1 mr-2 whitespace-nowrap sm:mb-0;
   }
+
+  input[type=email][type=name]{
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+
+  .contact{
+    justify-content: center;
+    display: flex;
+    border-radius: 25px;
+    margin: 40px 50px;
+    padding: 30px;
+    background-color: #E0DCDB;
+  }
+
 
 </style>
