@@ -1,4 +1,7 @@
 ---
+export const prerender = true;
+import { isRegistered, registerUser } from "../../data/users"
+import { isValidEmail } from "../../utils/isValidEmail";
 import { getCollection } from "astro:content";
 import Layout from "@layouts/Layout.astro";
 import Header from "@components/Header.astro";
@@ -9,21 +12,45 @@ import Socials from "@components/Socials.astro";
 import { SOCIALS } from "@config";
 
 const posts = await getCollection("blog");
+
+const errors = { username: "", email: "", password: "" };
+if (Astro.request.method === "POST") {
+  try {
+    const data = await Astro.request.formData();
+    const email = data.get("email");
+    if (typeof email !== "string" || !isValidEmail(email)) {
+      errors.email += "Email is not valid. ";
+    } else if (await isRegistered(email)) {
+      errors.email += "Email is already registered. ";
+    }
+    // Do something with the data
+    const hasErrors = Object.values(errors).some(msg => msg)
+    if (!hasErrors) {
+      await registerUser({email});
+      return Astro.redirect("/login");
+    }
+  } catch (error) {
+    if (error instanceof Error) {
+      console.error(error.message);
+    }
+  }
+}
 ---
 
 <Layout>
   <Header />
   <main id="subscribe-form">
     <section id="hero">
+      <h1><b>Register</b></h1>
       <form name="contact" action="" method="POST" data-netlify="true">
+        <p>Subscribe to the Blog! Monthly updates at the minimum.</p>
         <p>
-          <label>Your Name: <input type="text" name="name" /></label>
+          <label>Your Email: 
+            <input type="email" name="email" />
+          </label>
         </p>
         <p>
-          <label>Your Email: <input type="email" name="email" /></label>
-        </p>
-        <p>
-          <button type="submit">Send</button>
+          <button type="submit">Submit</button>
         </p>
       </form>
     </section>
