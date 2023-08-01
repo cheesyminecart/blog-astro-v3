@@ -23,22 +23,24 @@ if (Astro.request.method === "POST") {
   <Header />
   <main id="subscribe-form">
     <section id="subbox">
+      <div id="subbox">
       <p>This blog is updated every so often! Be at the forefront of any developments we make.</p>
       <form name="contact" action="" method="POST" data-netlify="true">
         <p class="hidden">
-          <label>
+            <label>
             Don't fill this out if you're human: <input name="bot-field" />
-          </label>
-        </p>
-        <p>
-          <label>Your Email: 
-            <input type="email" name="email" /required>
-          </label>
-        </p>
-        <p>
-          <button type="submit">Submit</button>
-        </p>
-      </form>
+            </label>
+          </p>
+          <p>
+            <label>Your Email: 
+              <input type="email" name="email" /required>
+            </label>
+          </p>
+          <p>
+            <button type="submit">Submit</button>
+          </p>
+        </form>
+      </div>
     </section>
   </main>
 
@@ -55,22 +57,15 @@ if (Astro.request.method === "POST") {
   }
 
   input[type=submit]{
-    background-color: #4CAF50; /* Green */
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
+    border: black
   }
 
-  .regHeader{
+  #regHeader{
     padding: 70px 70px 70px 70px ;
     font-size: 36px;
   }
 
-  .subbox{
+  #subbox{
     justify-content: center;
     display: flex;
     height: 400px;
