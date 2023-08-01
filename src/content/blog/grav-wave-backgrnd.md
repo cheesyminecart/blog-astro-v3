@@ -14,7 +14,7 @@ ogImage: ""
 description: The stuff from my old blog i guess
 ---
 
-\*Editor's Note - Yep, this was the project I was working on! Now that I've a new, better website to
+_Editor's Note - Yep, this was the project I was working on! Now that I've a new, better website to compensate for the old one. Functionalities should (hopefully) work!_
 
 There's been news recently claiming startling evidence pointing us towards the gravitational wave background (sometimes known as a stochastic background) has been found. As an astrophysics nerd, this is big, BIG news, and shockwaves have already been felt across the astronomical world.
 
