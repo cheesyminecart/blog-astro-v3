@@ -19,28 +19,29 @@ if (Astro.request.method === "POST") {
 }
 ---
 
+
 <Layout>
   <Header />
   <main id="subscribe-form">
     <section id="subbox">
-      <div id="subbox">
-      <p>This blog is updated every so often! Be at the forefront of any developments we make.</p>
+      <h1 id="regHeader">Register</h1>
+      <p id="regPara">Be at the forefront of any of our developments.</p>
       <form name="contact" action="" method="POST" data-netlify="true">
         <p class="hidden">
             <label>
-            Don't fill this out if you're human: <input name="bot-field" />
+            Don't fill this out if you're human: <input name="bot-field"/>
             </label>
           </p>
           <p>
-            <label>Your Email: 
-              <input type="email" name="email" /required>
+            <label id="link-enter">Your Email: 
+              <input type="email" name="email" placeholder="example@gmail.com"/required>
             </label>
+
           </p>
           <p>
-            <button type="submit">Submit</button>
+            <button type="submit" id="subButton" style="font-weight:bolder">Submit</button>
           </p>
         </form>
-      </div>
     </section>
   </main>
 
@@ -49,34 +50,80 @@ if (Astro.request.method === "POST") {
 
 <style>
   input[type=email]{
-    width: 40%;
+    width: 50%;
     padding: 12px 20px;
     margin: 8px 0;
     box-sizing: border-box;
-    font-size: large;
+    font-size: medium;
+    border: black;
   }
 
   input[type=submit]{
-    border: black
+    border: black;
+    padding: 12px 20px;
+    margin: 8px 0;
+    font-size: medium;
+
   }
 
+input[type="text"]#subdomain{
+    -webkit-appearance: none!important;
+    border: 1px solid gray;
+    border-right: 0px;
+    outline: none;
+}
+
   #regHeader{
-    padding: 70px 70px 70px 70px ;
-    font-size: 36px;
+    padding: 5px ;
+    font-size: 42px;
+    margin: 8px 0;
+    font-weight: bold;
+    text-decoration: underline;
+    color:black;
+    text-align: left;
+  }
+
+  #regPara{
+    padding: 5px ;
+    font-size: 18px;
+    margin: 8px 0;
+    font-style: italic;
+    line-height: normal;
+    width: auto;
+    color: black;
+    opacity: 70%;
+    text-align: left;
   }
 
   #subbox{
     justify-content: center;
-    display: flex;
-    height: 400px;
-    width: 800px;
-    border-radius: 25px;
-    margin: 40px 50px;
-    padding: 70px;
+    display: block;
+    height: 210px;
+    width: 600px;
+    border-radius: 15px;
     background-color: #E0DCDB;
-    font-size: x-large;
+    font-size: medium;
     box-sizing: border-box;
-    resize: both;
     border-color: black;
+    text-align: center;
+    position: fixed;
+    top: 250px;
+    right: 435px;
+  }
+  #link-enter{
+    justify-self: left;
+    font-size: 20px;
+    color: black;
+    position: relative;
+    border-radius: 15px;
+    right: 50px; 
+  }
+  #subButton{
+    position: fixed;
+    top: 400px;
+    right: 480px;
+    border: black;
+    border-radius: 15px;
+    box-sizing: border-box;
   }
 </style>
