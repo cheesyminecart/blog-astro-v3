@@ -19,6 +19,7 @@ if (Astro.request.method === "POST") {
 }
 ---
 
+
 <Layout>
   <Header />
   <main id="subscribe-form">
@@ -27,13 +28,12 @@ if (Astro.request.method === "POST") {
       <form name="contact" action="" method="POST" data-netlify="true">
         <p class="hidden">
           <label>
-            Don’t fill this out if you’re human: <input name="bot-field" />
+            Don't fill this out if you're human: <input name="bot-field" />
           </label>
         </p>
-        <p>Subscribe to the Blog! Monthly updates at the minimum.</p>
         <p>
           <label>Your Email: 
-            <input type="email" name="email" />
+            <input type="email" name="email" /required>
           </label>
         </p>
         <p>
