@@ -22,7 +22,6 @@ if (Astro.request.method === "POST") {
 <Layout>
   <Header />
   <main id="subscribe-form">
-    <h1>Register</h1>
     <section id="subbox">
       <p>This blog is updated every so often! Be at the forefront of any developments we make.</p>
       <form name="contact" action="" method="POST" data-netlify="true">
@@ -47,26 +46,25 @@ if (Astro.request.method === "POST") {
 </Layout>
 
 <style>
-
   input[type=email]{
     width: 40%;
     padding: 12px 20px;
     margin: 8px 0;
     box-sizing: border-box;
     font-size: large;
-    
   }
 
   .regHeader{
     padding: 70px 70px 70px 70px ;
     font-size: 36px;
   }
+
   .subbox{
     justify-content: center;
     display: flex;
     border-radius: 25px;
     margin: 40px 50px;
-    padding: 30px;
+    padding: 70px;
     background-color: #E0DCDB;
     font-size: x-large;
     resize: both;
