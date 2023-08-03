@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://cheesyminecart-astro.netlify.app",
   author: "Julien",
   desc: "space!",
-  title: "The Spacer",
+  title: "TheSpacer",
   ogImage: "blog-icon.png",
   lightAndDarkMode: true,
   postPerPage: 3,
@@ -14,7 +14,7 @@ export const LOCALE = ["en-EN"]; // set to [] to use the environment default
 
 export const LOGO_IMAGE = {
   enable: false,
-  svg: true,
+  svg: false,
   width: 216,
   height: 46,
 };
