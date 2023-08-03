@@ -21,8 +21,8 @@ if (Astro.request.method === "POST") {
 
 <Layout>
   <Header />
-  <main id="main-content">
-    <section id="subbox">
+  <main id="main-content" class="container mx-auto">
+    <section id="hero">
       <h1 id="regHeader">Register</h1>
       <p id="regPara">Be at the forefront of any of our developments.</p>
       <form name="contact" action="" method="POST" data-netlify="true">
@@ -32,11 +32,9 @@ if (Astro.request.method === "POST") {
             </label>
           </p>
           <p>
-            <label id="link-enter">Your Email: 
-              <input type="email" name="email" placeholder="example@gmail.com"/required>
+            <label><span id="link-enter">Your Email:</span> 
+              <input type="email" id="input-box" name="email" placeholder="example@gmail.com"/required>
             </label>
-          </p>
-          <p>
             <button type="submit" id="subButton" style="font-weight:bolder">Submit</button>
           </p>
         </form>
@@ -47,7 +45,7 @@ if (Astro.request.method === "POST") {
 </Layout>
 
 <style>
-  input[type=email]{
+  /* input[type=email]{
     width: 50%;
     padding: 12px 20px;
     margin: 8px 0;
@@ -119,7 +117,7 @@ input[type="text"]#subdomain{
     border-radius: 15px;
     right: 50px; 
     margin:auto;
-  }
+  } */
   /* #subButton{
     position: fixed;
     top: 400px;
@@ -134,7 +132,7 @@ input[type="text"]#subdomain{
     @apply pb-6 pt-8;
   }
   #hero h1 {
-    @apply my-4 inline-block text-3xl font-bold sm:my-8 sm:text-5xl;
+    @apply my-4 inline-block text-3xl font-bold sm:my-8 sm:text-5xl p-2 underline;
   }
   #hero .rss-link {
     @apply mb-6;
@@ -143,8 +141,24 @@ input[type="text"]#subdomain{
     @apply mb-2 h-6 w-6 scale-110 fill-skin-accent sm:mb-3 sm:scale-125;
   }
   #hero p {
-    @apply my-2;
+    @apply my-2 opacity-60 p-2 italic;
   }
+  #hero h2 {
+    @apply text-2xl font-semibold tracking-wide italic ;
+  }
+
+  #subButton{
+    @apply box-border p-4;
+  }
+
+  #link-enter{
+    @apply text-2xl font-bold;
+  }
+
+  #input-box{
+    @apply rounded-lg p-4 min-w-fit;
+  }
+  # 
   .social-wrapper {
     @apply mt-4 flex flex-col sm:flex-row sm:items-center;
   }
