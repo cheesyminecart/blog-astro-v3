@@ -3,7 +3,7 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://cheesyminecart-astro.netlify.app",
   author: "Julien",
-  desc: "An Amateur Attempt at an original Blog",
+  desc: "space!",
   title: "TheSpacer",
   ogImage: "blog-icon.png",
   lightAndDarkMode: true,
@@ -22,7 +22,7 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/cheesyminecart",
     linkTitle: ` ${SITE.title} on Github`,
     active: true,
   },
@@ -30,11 +30,11 @@ export const SOCIALS: SocialObjects = [
     name: "Facebook",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Facebook`,
-    active: true,
+    active: false,
   },
   {
     name: "Instagram",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://www.instagram.com/cheesyminecart_astro/",
     linkTitle: `${SITE.title} on Instagram`,
     active: true,
   },
@@ -46,9 +46,9 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Mail",
-    href: "mailto:yourmail@gmail.com",
+    href: "thearchive@gmail.com",
     linkTitle: `Send an email to ${SITE.title}`,
-    active: false,
+    active: true,
   },
   {
     name: "Twitter",
@@ -124,9 +124,9 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Steam",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://steamcommunity.com/profiles/76561198854404021/",
     linkTitle: `${SITE.title} on Steam`,
-    active: false,
+    active: true,
   },
   {
     name: "Telegram",
