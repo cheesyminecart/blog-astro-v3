@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Julien",
   desc: "space!",
   title: "TheSpacer",
-  ogImage: "blog-icon.svg",
+  ogImage: "blog-icon.png",
   lightAndDarkMode: true,
   postPerPage: 3,
 };
