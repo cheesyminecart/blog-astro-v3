@@ -19,7 +19,6 @@ if (Astro.request.method === "POST") {
 }
 ---
 
-
 <Layout>
   <Header />
   <main id="main-content">
@@ -36,7 +35,6 @@ if (Astro.request.method === "POST") {
             <label id="link-enter">Your Email: 
               <input type="email" name="email" placeholder="example@gmail.com"/required>
             </label>
-
           </p>
           <p>
             <button type="submit" id="subButton" style="font-weight:bolder">Submit</button>
@@ -64,7 +62,6 @@ if (Astro.request.method === "POST") {
     margin: 8px 0;
     font-size: medium;
     margin: auto;
-
   }
 
 input[type="text"]#subdomain{
@@ -123,7 +120,7 @@ input[type="text"]#subdomain{
     right: 50px; 
     margin:auto;
   }
-  #subButton{
+  /* #subButton{
     position: fixed;
     top: 400px;
     right: 480px;
@@ -131,5 +128,27 @@ input[type="text"]#subdomain{
     border-radius: 15px;
     box-sizing: border-box;
     margin: auto;
+  } */
+
+  #hero {
+    @apply pb-6 pt-8;
+  }
+  #hero h1 {
+    @apply my-4 inline-block text-3xl font-bold sm:my-8 sm:text-5xl;
+  }
+  #hero .rss-link {
+    @apply mb-6;
+  }
+  #hero .rss-icon {
+    @apply mb-2 h-6 w-6 scale-110 fill-skin-accent sm:mb-3 sm:scale-125;
+  }
+  #hero p {
+    @apply my-2;
+  }
+  .social-wrapper {
+    @apply mt-4 flex flex-col sm:flex-row sm:items-center;
+  }
+  .social-links {
+    @apply mb-1 mr-2 whitespace-nowrap sm:mb-0;
   }
 </style>
