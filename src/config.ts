@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://cheesyminecart-astro.netlify.app",
   author: "Julien",
   desc: "space!",
-  title: "TheSpacer",
+  title: "The Spacer",
   ogImage: "blog-icon.png",
   lightAndDarkMode: true,
   postPerPage: 3,
