@@ -35,7 +35,7 @@ if (Astro.request.method === "POST") {
             <label><span id="link-enter">Your Email:</span> 
               <input type="email" id="input-box" name="email" placeholder="example@gmail.com"/required>
             </label>
-            <button type="submit" id="subButton" style="font-weight:bolder">Submit</button>
+            <button class="bg-slate-400 hover: bg-slate-500" type="submit" id="subButton" style="font-weight:bolder">Submit</button>
           </p>
         </form>
     </section>
@@ -132,7 +132,7 @@ input[type="text"]#subdomain{
     @apply pb-6 pt-8;
   }
   #hero h1 {
-    @apply my-4 inline-block font-bold sm:my-8 sm:text-5xl p-2 underline;
+    @apply my-4 inline-block font-bold sm:my-8 sm:text-5xl pt-24 underline;
   }
   #hero .rss-link {
     @apply mb-6;
@@ -141,14 +141,18 @@ input[type="text"]#subdomain{
     @apply mb-2 h-6 w-6 scale-110 fill-skin-accent sm:mb-3 sm:scale-125;
   }
   #hero p {
-    @apply my-2 opacity-60 p-2 italic;
+    @apply my-2 p-2;
   }
   #hero h2 {
-    @apply text-2xl font-semibold tracking-wide italic ;
+    @apply text-2xl font-semibold tracking-wide;
+  }
+
+  #regPara{
+    @apply italic opacity-60;
   }
 
   #subButton{
-    @apply box-border p-4;
+    @apply box-border p-4 text-left;
   }
 
   #link-enter{
@@ -156,7 +160,7 @@ input[type="text"]#subdomain{
   }
 
   #input-box{
-    @apply rounded-lg p-4 min-w-fit;
+    @apply rounded-lg p-4 min-w-fit text-right;
   }
   # 
   .social-wrapper {
