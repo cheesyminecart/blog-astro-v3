@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Julien",
   desc: "An Amateur Attempt at an original Blog",
   title: "TheSpacer",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "blog-icon.png",
   lightAndDarkMode: true,
   postPerPage: 3,
 };
