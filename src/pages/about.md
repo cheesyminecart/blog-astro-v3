@@ -9,8 +9,8 @@ A very, very hastily constructed blog!
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
-## About the Author(s)
+## About the Author
 
-We're a team dedicated to providing easy-to-access, readable information about everything space! Currently in High School, it is our express wish that people who share the same interests as us are able to find the information we incorporate into our articles both useful and inspiring!
+A high school student hoping to providing easy-to-access, readable information about everything space! Currently in High School, it is our express wish that people who share the same interests as us are able to find the information we incorporate into our articles both useful and inspiring!
 
-The Team: Julien, Joseph
+Guest Authors: Joseph
