@@ -8,10 +8,7 @@ draft: true
 tags:
   - TypeScript
   - Astro
-description:
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel
-  fringilla est
+description: My experience with Dungeons and Dragons - and why I absolutely adore it!
 ---
 
 My experience about developing my first portfolio website and a blog using NextJS and a headless CMS.
