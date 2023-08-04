@@ -3,28 +3,14 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-TEST 
+A very, very hastily
+
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
-## Tech Stack
+## About the Author(s)
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+We're a team dedicated to providing easy-to-access, readable information about everything space! Currently in High School, it is our express wish that people who share the same interests as us are able to find the information we incorporate into our articles both useful and inspiring!
 
-## Features
-
-What more would one need? This website was a pain to make. God help me. 
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+The Team: Julien, Joseph
