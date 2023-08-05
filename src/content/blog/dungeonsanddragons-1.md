@@ -25,6 +25,6 @@ I remember my first campaign, where my party and I were tasked by a mage to ente
 
 I understand that many people associate Dungeons and Dragons with the concept of "being a nerd", but I'd love for more people to become hardcore DND delvers! The Pandora's Box of fictional worlds awaits...
 
-![Hastily Drawn DnD Token](../../../public/assets/dnd_token.png)
+![Hastily Drawn DnD Token](https://github.com/cheesyminecart/blog-astro-v3/blob/master/public/blog-images/dnd_token.png)
 
 <figcaption style="text-align: center">My Dungeons and Dragons token!</figcaption>
