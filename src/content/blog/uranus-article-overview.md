@@ -10,7 +10,7 @@ tags:
   - astronomy
   - planets
   - info
-ogImage: "https://github.com/cheesyminecart/blog-astro-v3/blob/master/public/blog%20images/uranus_sunview.jpeg"
+ogImage: ""
 description: Diving deep into the Uranian System and its attributes!
 ---
 
