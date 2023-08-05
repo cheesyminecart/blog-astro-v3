@@ -11,7 +11,7 @@ tags:
   - planets
   - info
 ogImage: "https://github.com/cheesyminecart/blog-astro-v3/blob/master/public/blog%20images/uranus_sunview.jpeg"
-description: The stuff from my old blog i guess
+description: Diving deep into the Uranian System and its attributes!
 ---
 
 Save for its name, Uranus isn't really the most memorable planet out there. Being far enough away from Earth that any amateur observer would barely be able to make out coherent details of its surface, let alone the very faint bands and storms that any self-respecting gas giant would have. As a result, astronomical focus has typically been on its slightly smaller sibling, Neptune.
