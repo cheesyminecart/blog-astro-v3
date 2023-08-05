@@ -9,7 +9,7 @@ tags:
   - casual
   - gaming
   - life
-ogImage: "https://github.com/cheesyminecart/blog-astro-v3/blob/master/public/blog_images/token.png"
+ogImage: ""
 description: My experience with Dungeons and Dragons - and why I absolutely adore it!
 ---
 
