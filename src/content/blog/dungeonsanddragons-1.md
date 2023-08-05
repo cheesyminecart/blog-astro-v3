@@ -9,6 +9,7 @@ tags:
   - casual
   - gaming
   - life
+ogImage: "../../../public/blog%20images/token.png"
 description: My experience with Dungeons and Dragons - and why I absolutely adore it!
 ---
 
@@ -24,4 +25,4 @@ I remember my first campaign, where my party and I were tasked by a mage to ente
 
 I understand that many people associate Dungeons and Dragons with the concept of "being a nerd", but I'd love for more people to become hardcore DND delvers! The Pandora's Box of fictional worlds awaits...
 
-<img src="https://74f91a6e56.cbaul-cdnwnd.com/cbb0871d44215e72c1e8ea005319b4ac/200000056-1698116983/450/token.webp?ph=74f91a6e56" alt="DnD Token" width="768" height="768">
+![my dnd token|900](../../../public/blog%20images/token.png)
