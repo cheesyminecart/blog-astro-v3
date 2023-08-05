@@ -28,6 +28,7 @@ However, there are other possibilities to this low "hum" of gravitational waves 
 Whatever's the case, this news has sent shockwaves around the astrophysics community, paving the way for a proof of the Hellings-Downs Curve as well as cosmic inflation. I'm looking tremendously forward to the day when LISA comes online, but until then we can only hope to dream about the mystical, stochastic background of gravity that litters our cosmic background.
 
 For more information on this groundbreaking discovery, feel free to take a look at the paper making this announcement:
+
 https://arxiv.org/pdf/2306.16213.pdf
 
 <div>
