@@ -9,7 +9,7 @@ tags:
   - casual
   - gaming
   - life
-ogImage: "../../../public/blog%20images/token.png"
+ogImage: "https://github.com/cheesyminecart/blog-astro-v3/blob/master/public/blog%20images/token.png"
 description: My experience with Dungeons and Dragons - and why I absolutely adore it!
 ---
 
@@ -25,4 +25,4 @@ I remember my first campaign, where my party and I were tasked by a mage to ente
 
 I understand that many people associate Dungeons and Dragons with the concept of "being a nerd", but I'd love for more people to become hardcore DND delvers! The Pandora's Box of fictional worlds awaits...
 
-![my dnd token|900](../../../public/blog%20images/token.png)
+![my dnd token|900](https://github.com/cheesyminecart/blog-astro-v3/blob/master/public/blog%20images/token.png)
