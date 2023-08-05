@@ -10,7 +10,8 @@ tags:
   - cosmology
   - discoveries
   - astronomy
-ogImage: ""
+  - info
+ogImage: "https://divisions-prod.s3.amazonaws.com/root/images/NANOGrav_PTA_GWB_15yr-WEB.original.jpg"
 description: The stuff from my old blog i guess
 ---
 
