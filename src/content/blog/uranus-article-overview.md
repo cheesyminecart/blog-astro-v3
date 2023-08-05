@@ -20,7 +20,7 @@ Uranus is most famed for its unique axial tilt. It's 97 degrees from it's centre
 
 Like any self-respecting gas giant, Uranus has its own (very!) faint ring and moon system, albeit the least massive among the Jovian planets. The system consists of 13 inner moons, 5 large moons and 9 irregular moons. It's theorised that the rings of Uranus, especially the brighter, inner rings, are replenished through collisions between inner moons; the system itself is unstable and many moons are expected to crash into each other in the near future, which would release ejecta, replenishing the ring. Each of the larger moons orbit outside of the inner moons, while the irregular moons are theorised to be Centaurs (asteroid-like objects orbiting between the Kuiper and Asteroid Belts) that have been captured by Uranus.
 
-![Uranus Sunview](/public/blog_images/uranus_sunview.jpeg)
+![Uranus Sunview](public/blog_images/uranus_sunview.jpeg)
 
 <figcaption style="text-align: center">The Uranian System illuminated by the Sun
 
@@ -32,6 +32,6 @@ Uranus isn't blue by choice! It's atmosphere is primarily made of hydrogen and h
 
 Perhaps there was a reason to give Uranus its name, the methane atmosphere and all. Besides, this planet's also garnered attention for diverting from the standard Roman naming convention for planets. Now that I think of it, "Caelus" does sound much better than Uranus...
 
-![Uranus Surface](/public/blog_images/uranus_surface.jpeg)
+![Uranus Surface](public/blog_images/uranus_surface.jpeg)
 
 <figcaption style="text-align: center">Verona Rupes on the Uranian Moon Miranda, the highest cliffs in the Solar System!</figcaption>
