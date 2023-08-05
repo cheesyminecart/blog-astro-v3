@@ -1,8 +1,8 @@
 ---
 author: Julien (cheesyminecart)
-pubDatetime: 2023-07-23T10:10:36Z
+pubDatetime: 2023-07-20T10:10:36Z
 title: The Gravitational Wave Background
-postSlug: stuff
+postSlug: grav-wave-bkg
 featured: true
 draft: false
 tags:
