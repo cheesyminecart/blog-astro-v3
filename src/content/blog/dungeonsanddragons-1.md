@@ -28,3 +28,5 @@ I understand that many people associate Dungeons and Dragons with the concept of
 ![Hastily Drawn DnD Token](/blog-images/dnd_token.png)
 
 <figcaption style="text-align: center">My Dungeons and Dragons token!</figcaption>
+
+_Like what you see? Feel free to [subscribe](https://thespacer-blog.netlify.app/subscribe/) to our blog to receive updates whenever we post._

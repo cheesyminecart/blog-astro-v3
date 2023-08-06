@@ -35,3 +35,5 @@ https://arxiv.org/pdf/2306.16213.pdf
     <img src="https://divisions-prod.s3.amazonaws.com/root/images/NANOGrav_PTA_GWB_15yr-WEB.original.jpg" alt="GravWave" width="916" height="508">
     <figcaption style="text-align: center">Artist's Impression of the Space-Time Continuum</figcaption>
 </div>
+
+_Like what you see? Feel free to [subscribe](https://thespacer-blog.netlify.app/subscribe/) to our blog to receive updates whenever we post._
