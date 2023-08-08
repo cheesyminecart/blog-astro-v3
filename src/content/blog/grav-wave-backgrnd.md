@@ -12,7 +12,7 @@ tags:
   - astronomy
   - info
 ogImage: "https://divisions-prod.s3.amazonaws.com/root/images/NANOGrav_PTA_GWB_15yr-WEB.original.jpg"
-description: What's the buzz surrounding Gravitational Waves? Let's find out!
+description: What's the buzz surrounding Gravitational Waves?
 ---
 
 _Editor's Note - Yep, this was the project I was working on! Now that I've a new, better website to compensate for the old one. Functionalities should (hopefully) work!_
