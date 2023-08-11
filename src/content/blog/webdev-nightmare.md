@@ -10,8 +10,10 @@ tags:
   - life
   - coding
 ogImage: ""
-description: New feature in AstroPaper v1.4.0, introducing dynamic OG image generation for blog posts.
+description: Is Web Development really accessible from the get-go?
 ---
+
+Short answer, no.
 
 When it comes to website frameworks, none is more powerful than astro. Sending you straight to the sky, it does nothing but impress, with load times of almost half of what other frameworks for web development provide.
 
