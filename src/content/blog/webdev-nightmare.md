@@ -43,4 +43,4 @@ Now that my website's finally up, it's time to give my verdict - should anyone w
 
 In short, no. Though this was an incredibly valuable learning experience - it was terribly frustrating every step of the way, and it is my utmost belief that nobody harbors the time nor patience to see the art of website development through.
 
-![preset-image](../assets/dev.svg)
+![preset-image](/assets/dev.svg)
