@@ -23,7 +23,7 @@ Before we look at the supernova itself, let's take a closer look at the progenit
 
 It's expected that a star about to go supernova will experience severe eruptions of mass loss - which is what a study finds to appear in the form of heightened circumstellar extinction. This is when dust, gas or other opaque materials surrounding a target object blocks or heavily redshifts its light relative to us. As a result, preliminary estimates were considered underestimates, large amounts (0.3-1 solar mass) of stellar material having been ejected prior to the supernova.
 
-![[Untitled design (1).png]]
+[Magnitude Graph](/blog-images/sn2023ixf_graph_copy.png)
 
 Note that the graph shows us there is a significant initial brightening in the star initially - there is an increase in one magnitude, meaning the star has brightened nearly 2.5 times. By the time the star's supernova had been detected, its _absolute magnitude_ - meaning the magnitude it it were 33 light years away, shot up from -10 to -18, a 1500-fold increase in its brightness! Although initially blue, the supernova's colour gradually reddened as it faded, light rays slowing down as they navigated the thick nebula expelled by the star.
 
@@ -32,3 +32,5 @@ At this current moment in time, it's unknown if the star had become a neutron st
 Looking past its scientific potential, SN 2023ixf has another defining point, being first identified by thje amateur astronomer Koichi Itagaki. As a budding astrophotographer, this is awe inspiring; it is a reminder of the scale of discoveries the dedicated can accomplish. That being said, my DSLR camera isn't powerful enough to take deep-field photos and I don't have the necessary motors to allow for high-exposure photography, so I wasn't able to get a photo of this event.
 
 Can't wait until Betelgeuse goes supernova! My camera would love those shots.
+
+_Like what you see? Feel free to [subscribe](https://thespacer-blog.netlify.app/subscribe/) to our blog to receive updates whenever we post._
