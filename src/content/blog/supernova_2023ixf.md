@@ -1,6 +1,6 @@
 ---
 author: Julien (cheesyminecart)
-pubDatetime: 2023-07-20T10:10:36Z
+pubDatetime: 2023-08-20T20:12:36Z
 title: Supernovae from start to finish - SN 2023ixf
 postSlug: sn-2023-ixf-exp
 featured: true
