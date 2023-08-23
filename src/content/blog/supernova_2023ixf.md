@@ -4,7 +4,7 @@ pubDatetime: 2023-07-20T10:10:36Z
 title: Supernovae from start to finish - SN 2023ixf
 postSlug: sn-2023-ixf-exp
 featured: true
-draft: true
+draft: false
 tags:
   - astrophysics
   - discoveries
