@@ -19,7 +19,7 @@ Right from the beginning you're shown a text-based spinoff of the far future - a
 
 As the player, you're able to navigate this apocalyptic world through a terminal embedded in the side of your submarine. This genius addition provides a third party that highlights the bleak circumstances you're thrust into as the player. In addition, your ability to see forwards is sealed shut, as the pressure outside is too high for the submarine window to withstand and must therefore be bolted shut. You're reliant on a radar the entire game, using a map and a proximity alert system to guide you - and one little brush-up with the walls of the trench will cause a cascade structural failure leading to your death. The added component of knowing that you are surrounded by certain death at all times really adds to the suspense - it's what makes this two-hour long game such a teeth-chattering experience!
 
-![](/blog-images/iron-lung-sub-int.webp)
+![Iron Lung Submarine Interior](/blog-images/iron-lung-sub-int.webp)
 
 <figcaption style="text-align: center">The Submarine you're In! Have fun...</figcaption>
 
@@ -29,6 +29,6 @@ I'd recommend it to anyone, especially the faint of heart - it's always great to
 
 Besides, somewhere in the void, there must be hope...
 
-![](/blog-images/iron-lung-title-screen.jpeg)
+![Iron Lung Loading Screen](/blog-images/iron-lung-title-screen.jpeg)
 
 _Like what you see? Feel free to [subscribe](https://thespacer-blog.netlify.app/subscribe/) to our blog to receive updates whenever we post._
