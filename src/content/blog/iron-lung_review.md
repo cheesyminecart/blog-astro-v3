@@ -3,8 +3,8 @@ author: Julien (cheesyminecart)
 pubDatetime: 2023-09-15T23:25:04.866Z
 title: Iron Lung - Rundown & Review
 postSlug: iron-lung-review-exp
-featured: false
-draft: true
+featured: true
+draft: false
 ogImage: ""
 description: Reviewing Iron Lung, a critically-acclaimed retro horror game set in the far future!
 ---
