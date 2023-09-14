@@ -6,6 +6,12 @@ postSlug: iron-lung-review-exp
 featured: true
 draft: false
 ogImage: ""
+tags:
+  - review
+  - life
+  - gaming
+  - info
+  - stories
 description: Reviewing Iron Lung, a critically-acclaimed retro horror game set in the far future!
 ---
 
