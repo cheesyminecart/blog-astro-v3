@@ -19,7 +19,7 @@ Supernovae widely considered one of the most violent spectacles the Universe has
 
 If you've been following the news lately, a supernova that's gone off in our galactic neighbourhood may have reached your front page. SN 2023ixf, the closest supernova to us in over 30 years, has captivated the likes of amateur astrophotographers, high-energy astrophysicists and the astronomically-inclined high school student, like me. It's a type II supernova - meaning that the collapse of a massive star caused it.
 
-[SN 2023ixf diagram](/blog-images/pinwheel-supernova.jpeg)
+[](/blog-images/pinwheel-supernova.jpeg)
 
 <figcaption style="text-align: center">SN 2023ixf (lower left) captured by the Gemini North Telescope <i>Credit: NOIRLab</i></figcaption>
 
@@ -27,7 +27,7 @@ Before we look at the supernova itself, let's take a closer look at the progenit
 
 It's expected that a star about to go supernova will experience severe eruptions of mass loss - which is what a study finds to appear in the form of heightened circumstellar extinction. This is when dust, gas or other opaque materials surrounding a target object blocks or heavily redshifts its light relative to us. As a result, preliminary estimates were considered underestimates, large amounts (0.3-1 solar mass) of stellar material having been ejected prior to the supernova.
 
-[Magnitude Graph](/blog-images/sn2023ixf_graph_copy.png)
+[](/blog-images/sn2023ixf_graph_copy.png)
 
 <figcaption style="text-align: center">A time-magnitude diagram of the progenitor star in the 3.6 and 4.5 micrometer infrared bands. These measurements were taken by Spitzer's IRAC instrument</figcaption>
 
@@ -39,7 +39,7 @@ Looking past its scientific potential, SN 2023ixf has another defining point, be
 
 Can't wait until Betelgeuse goes supernova! My camera would love those shots.
 
-[Crab Nebula](/blog-images/crab_nebula_sim.jpg)
+[](/blog-images/crab_nebula_sim.jpg)
 
 <figcaption style="text-align: center">The Crab Nebula, a supernova remnant.</figcaption>
 
