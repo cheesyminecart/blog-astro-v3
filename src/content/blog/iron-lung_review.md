@@ -38,3 +38,5 @@ Besides, somewhere in the void, there must be hope...
 ![Iron Lung Loading Screen](/blog-images/iron-lung-title-screen.jpeg)
 
 _Like what you see? Feel free to [subscribe](https://thespacer-blog.netlify.app/subscribe/) to our blog to receive updates whenever we post._
+
+_My friend streams on twitch! Follow him here: https://www.twitch.tv/darksparkthevoid_
