@@ -49,8 +49,10 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         <img src="/blog-images/moon-8-stack-crescent-website.jpg" alt="Moon Preview" width="600" height="720" style="padding: 18px; margin:auto">
         <figcaption style="text-align: center" style="text-decoration: italic">My photo of the moon!</figcaption>
       </div>
-
-      <iframe id='kofiframe' src='https://ko-fi.com/cheesyminecart/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='cheesyminecart'></iframe>
+      <div>
+        <span style="text-align:justify"><b><i>Feel free to support me through donating:   </b></i></span>
+        <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#e02828', 'X8X3PL6LC');kofiwidget2.draw();</script> 
+      </div>
       {
         // only display if at least one social link is enabled
         socialCount > 0 && (
