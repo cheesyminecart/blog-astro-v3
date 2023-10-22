@@ -14,7 +14,7 @@ ogImage: ""
 description: Into the light echo of V838 Monocerotis!
 ---
 
-<span style="color:rgb(137, 220, 235)"><i>I'm trying something new. See the amount of blogs drop - but their quality increase, hopefully. Tell me how this flows!</i></span>
+<span style="color:rgb(250, 179, 135)"><i>I'm trying something new. See the number of blogs drop - but their quality increase, hopefully. Tell me how this flows!</i></span>
 
 Novae are the less popular younger brother to the supernovae, with the latter often an impetus for inspiring science fiction stories. It's a lot harder to come across people who can explain novae instead of their super-cousins! Regardless, it's still great that I try my hand at conquering this pedagogical woe, and instead
 
