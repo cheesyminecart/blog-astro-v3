@@ -1,10 +1,15 @@
 ---
-author: Julien
-pubDatetime: 2023-10-23T00:53:04.866Z
-title: What happened to V838 Monocerotis?
+author: Julien (cheesyminecart)
+pubDatetime: 2023-10-23T00:53:04Z
+title: SN 2023ixf - Dissecting a Supernova from Start to Finish
 postSlug: v838-mon-nova
 featured: true
 draft: false
+tags:
+  - astrophysics
+  - astrophotography
+  - astronomy
+  - info
 ogImage: ""
 description: Into the light echo of V838 Monocerotis!
 ---
