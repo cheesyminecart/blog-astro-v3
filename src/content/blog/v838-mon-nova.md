@@ -1,7 +1,7 @@
 ---
 author: Julien (cheesyminecart)
 pubDatetime: 2023-10-23T00:53:04Z
-title: What happened to V838 Monocerotis?
+title: The Unicorn's Enigma - V838 Monocerotis
 postSlug: v838-mon-nova
 featured: true
 draft: false
