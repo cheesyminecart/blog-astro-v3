@@ -16,11 +16,11 @@ description: Into the light echo of V838 Monocerotis!
 
 <span style="color:rgb(250, 179, 135)"><i>I'm trying something new. See the number of blogs drop - but their quality increase, hopefully. Tell me how this flows!</i></span>
 
-Novae are the less popular younger brother to the supernovae, with the latter often an impetus for inspiring science fiction stories. It's a lot harder to come across people who can explain novae instead of their super-cousins! Regardless, it's still great that I try my hand at conquering this pedagogical woe, and instead
+Novae are the less popular younger brother to the supernovae, with the latter often an impetus for inspiring science fiction stories. It's a lot harder to come across people who can explain novae instead of their super-cousins!
 
-To inch ourselves towards this obscure corner of astrophysics, let's take a look at a particularly dazzling example - V838 Monocerotis, a star that shot to fame after Hubble captured a photograph it in 2003.
+To inch ourselves towards this obscure corner of astrophysics, let's take a look at a particularly dazzling example - V838 Monocerotis, a star that travelled the stellar highway to stardom after Hubble set its sights on it.
 
-Welcome to the constellation of Monoceros, the Unicorn. There's a nebula here, 20,000 light years away from our blue marble, where early B- to late O type stars dot the skies, shining a brilliant blue. Somewhere in this nebula is a special trinary star system, consisting of a very compact binary star component and a separate companion further away.
+Let's go to the constellation of Monoceros, better known as the Unicorn. There's a nebula here, 20,000 light years away from our blue marble, where early B- to late O type stars dot the skies, shining a brilliant blue. Somewhere in this nebula is a special trinary star system, consisting of a very compact binary star component and a separate companion further away.
 
 As you may imagine, this configuration of stars isn't the most stable by virtue of chaos theory. Eventually, something's going to have to give. In our case, the compact binary slowly radiates its mechanical energy away as gravitational waves as the two stars spiral closer in a dance of death.
 
