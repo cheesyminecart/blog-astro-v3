@@ -3,7 +3,7 @@ author: Julien (cheesyminecart)
 pubDatetime: 2023-07-20T10:10:36Z
 title: The Gravitational Wave Background
 postSlug: grav-wave-bkg
-featured: true
+featured: false
 draft: false
 tags:
   - astrophysics

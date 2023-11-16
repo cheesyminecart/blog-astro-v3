@@ -3,7 +3,7 @@ title: Io - the non-icy Jovian Moon
 author: Julien (cheesyminecart)
 pubDatetime: 2023-04-23T21:19:12Z
 postSlug: io_explore_info
-featured: true
+featured: false
 draft: false
 tags:
   - astronomy

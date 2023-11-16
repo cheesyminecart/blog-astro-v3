@@ -3,7 +3,7 @@ author: Julien (cheesyminecart)
 pubDatetime: 2023-06-04T21:05:20Z
 title: Uranus - A Planetary Deep Dive
 postSlug: uranus-info-dd-1
-featured: true
+featured: false
 draft: false
 tags:
   - astrophysics
