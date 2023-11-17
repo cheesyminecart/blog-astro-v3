@@ -36,7 +36,7 @@ Having over 6 years still left on its clock, there's plenty of time for this tel
 
 A toast to a bright future for our dear telescope! The old mathematician must be proud...
 
-![Euclid in Space](/blog-images/Euclid_looking_into_the_Universe_ESA24697255.jpeg)
+![Euclid in Space](/blog-images/euclid_space.jpeg)
 
 <figcaption style="text-align:center">Euclid, in space. Credit: ESA.</figcaption>
 
