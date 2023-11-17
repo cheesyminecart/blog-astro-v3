@@ -22,7 +22,7 @@ As GAIA's successor, one of its objectives is to create a map of the night sky. 
 
 While this happens, visible light is filtered out and reflected onto the VIS, or VISible Instrument, giving us spectroscopy and photometry results in two different channels. With each instrument able to resolve images millions of pixels large, the first science images we've received have been stunning.
 
-![Euclid's Horsehead Nebula](./blog-images/euclid_horsehead_nebula.jpeg)
+![Euclid's Horsehead Nebula](/blog-images/euclid_horsehead_nebula.jpeg)
 
 <figcaption style="text-align:center">Euclid's View of the Horsehead Nebula! Credit: ESA</figcaption>
 
@@ -36,7 +36,7 @@ Having over 6 years still left on its clock, there's plenty of time for this tel
 
 A toast to a bright future for our dear telescope! The old mathematician must be proud...
 
-![Euclid in Space](./blog-images/Euclid_looking_into_the_Universe_ESA24697255.jpeg)
+![Euclid in Space](/blog-images/Euclid_looking_into_the_Universe_ESA24697255.jpeg)
 
 <figcaption style="text-align:center">Euclid, in space. Credit: ESA.</figcaption>
 
