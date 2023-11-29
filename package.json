@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@astrojs/rss": "^2.4.4",
-    "@esbuild/darwin-arm64": "^0.19.5",
+    "@esbuild/darwin-arm64": "^0.19.6",
     "@resvg/resvg-js": "^2.4.1",
     "@types/react-dom": "^18.2.15",
     "astro": "^2.10.15",
