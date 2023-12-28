@@ -31,6 +31,8 @@ Onto our adversaries. Our first stop is the Seyfert Galaxy, a (relatively) moder
 
 ![M87 Neighbourhood Seyfert](/blog-images/m87_seyf.webp)
 
+<figcaption style="text-align: center">M87, Seyfert branch office in our local cluster.</figcaption>
+
 On the other hand, quasars head much of the AGN syndicate's command posts. While these offices only operate far away thanks to a lack of gas to siphon in the vicinity, there have nonetheless been sleeper agents planted, and we have seen them flare to life upon a galactic collision or a similar catastrophic event.
 
 This isn't a threat for now. Sagittarius A\* and its neighbour, Andromeda, have repeatedly assured us that they'll try to prevent this from happening to them. Even when it's inevitable. Yes, we know, recruit.
@@ -39,6 +41,8 @@ Even while being very, very far away from us, they're still quite the threat. We
 
 ![3C 273 imaged by Hubble](/blog-images/3c273%20hubble%20image.webp)
 
+<figcaption style="text-align: center">3C 273 - Imaged by the "Hubble Space Telescope", a human invention.</figcaption>
+
 For most black holes, you'd fall in, be spaghettified, tidal disruption event a little then die. However, AGNs have adapted to address the growing gas insecurities in the universe, instead speeding up gas to the point where it compresses into a disk, using thermal ablation to relive its glory days as a star.
 
 As a result, what we're actually seeing is the accretion disks around these objects - swirling plates of gas and dust that reach a fraction of the speed of light. Most disks emit primarily in the ultraviolet, with the most energetic even in the X-Rays - they're really energetic! If you're close to one of them, you won't even need to enter the black hole to be vaporised - microwaves, infrared - they'll boil you alive before you even get close. Not to mention the damage to your retinas!
@@ -46,5 +50,7 @@ As a result, what we're actually seeing is the accretion disks around these obje
 For now, we'll be interrogating some of their captured field operatives - the microquasars, which have seemingly infiltrated our galaxy. This particular object seems to be borne out of a double-star system, where a black hole siphons gas off an expanded binary component. In our case, we've an active hostage situation on our hands - the F-type subgiant orbiting the microquasar isn't going to be waiting for us!
 
 ![microquasar](/blog-images/microquasar_v1033scorpii.webp)
+
+<figcaption style="text-align: center">V1033 Scorpii - rendered in Space Engine!</figcaption>
 
 We leave at dawn. Whatever that means.
