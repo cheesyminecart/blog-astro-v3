@@ -1,7 +1,7 @@
 ---
 title: The AGN Syndicate - The Briefing
 author: Julien (cheesyminecart)
-pubDatetime: 2023-04-23T21:19:12Z
+pubDatetime: 2023-12-28T20:53:17Z
 postSlug: agn_syndicate_dnd
 featured: false
 draft: false
@@ -47,4 +47,4 @@ For now, we'll be interrogating some of their captured field operatives - the mi
 
 ![microquasar](/blog-images/microquasar_v1033scorpii.webp)
 
-What are you waiting for? Move it, grunt!
+We leave at dawn. Whatever that means.
