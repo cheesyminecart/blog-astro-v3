@@ -1,0 +1,47 @@
+---
+import Layout from "@layouts/Layout.astro";
+import Header from "@components/Header.astro";
+import Footer from "@components/Footer.astro";
+import LinkButton from "@components/LinkButton.astro";
+import { SOCIALS } from "@config";
+import GalleryLayout from "@layouts/GalleryLayout.astro";
+
+const socialCount = SOCIALS.filter(social => social.active).length;
+---
+<style>
+    img:hover{
+        opacity: 0.7;
+    }
+</style>
+
+<GalleryLayout />
+    <div class="grid grid-cols-2 gap-4 p-4">
+        <div class="grid gap-4">
+        <!-- content -->
+            <div>
+                <a href="/details">
+                    <img 
+                        class="object-cover"
+                        src="blog-images/mineral_moon.jpeg"
+                        alt=""
+                        transition:name="lunar transition 1" >
+                </a>
+            </div>
+        </div>
+
+        <div class="grid gap-4">
+            <div>
+                <a href="/details">
+                    <img 
+                    class="object-cover" 
+                    src="blog-images/1K moon (oops).jpg"
+                    >
+                </a>
+            </div>
+        </div>
+    </div>
+
+
+
+
+

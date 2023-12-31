@@ -36,6 +36,10 @@ const socialImageURL = new URL(
     <link rel="canonical" href={canonicalURL} />
     <meta name="generator" content={Astro.generator} />
 
+    <!-- view transition config -->
+
+    <ViewTransitions />
+
     <!-- General Meta Tags -->
     <title>{title}</title>
     <meta name="title" content={title} />
@@ -80,5 +84,29 @@ const socialImageURL = new URL(
   </head>
   <body>
     <slot />
+    <style is:global>
+        ::view-transition-old(photo_details) {
+        object-fit: contain;
+      }
+
+         ::view-transition-new(photo_details) {
+        object-fit: cover;
+      }
+
+      ::view-transition-group(photo_details),
+      ::view-transition-group(cover-image) {
+        z-index: 2;
+      }
+
+      ::view-transition-group(modal-content) {
+        z-index: 3;
+      }
+
+      ::view-transition-old(modal-content):only-child {
+        display: none;
+      }
+
+    </style>
+
   </body>
 </html>
