@@ -11,8 +11,12 @@ A very, very hastily constructed blog!
 
 ## About the Author
 
-A high school student hoping to providing easy-to-access, readable information about everything space! Currently in High School, it is our express wish that people who share the same interests as us are able to find the information we incorporate into our articles both useful and inspiring! (We're currently accepting guest writers!)
+A high school student hoping to providing easy-to-access, readable information about everything space! Currently in High School, it is our express wish that people who share the same interests as us are able to find the information we incorporate into our articles both useful and inspiring!
 
-Guest Authors: Joseph
+## Mindniche
 
-Feel free to contact us for anything at - [](thearchive234@gmail.com)
+I've got a personal project of mine - namely, [mindniche.org](https://mindniche.org). Feel free to check it out - though it should be noted that the website isn't ready to receive guest writers - yet. More details coming soon - it is still very, very early in the planning stages!
+
+## Contact
+
+Contact me at - [](thearchive234@gmail.com) - I reply quickly.
