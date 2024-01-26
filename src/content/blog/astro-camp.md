@@ -1,7 +1,7 @@
 ---
 title: Astronomy Advocacy Adventures - 1
 author: Julien (cheesyminecart)
-pubDatetime: 2023-06-19T19:32:55Z
+pubDatetime: 2024-01-26T21:40:28Z
 postSlug: astro-advoc-adven
 featured: true
 draft: false
