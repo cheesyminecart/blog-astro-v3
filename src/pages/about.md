@@ -19,4 +19,8 @@ I've got a personal project of mine - namely, [mindniche.org](https://mindniche.
 
 ## Contact
 
-Contact me at - [](thearchive234@gmail.com) - I reply quickly.
+Contact me at [](thearchive234@gmail.com)!
+
+Here's a list of my other socials:
+
+1. AstroBin
