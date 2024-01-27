@@ -18,7 +18,7 @@ description: Reflecting on a personal project of mine, in the most light pollute
 
 I've been taking astrophotographs for the past 4 months, mostly as a motivator for space. Regardless of the numerous equipment failures and cloud-covered nights I've seen, it's been one of the best choices I've ever made. I'd even signed up for astronomy camps, hoping to get out of the city for a while, only to be met with clouds upon clouds.
 
-With my frustrations came the wonder: _Could I make an astronomy camp?_
+With my frustrations came the question: _Could I make an astronomy camp?_
 
 Where I'm from, this is almost unheard of - light pollution here makes the sky shine at an ambient magnitude of 10, making it almost impossible to see anything other than the moon and some planets. It's absolutely terrible knowing that kids here have to go almost 2 hours out just to see stars - which the local pace of life these days doesn't permit.
 
@@ -46,4 +46,4 @@ Moon photos below - released with permission. With a DSLR/Mirrorless camera, you
 
 <figcaption style="text-align:center">Moon photo - by friends!</figcaption>
 
-_Like what you see? Feel free to [subscribe](https://thespacer-blog.netlify.app/subscribe/) to our blog to receive updates whenever we post._
+_Like what you see? Feel free to [subscribe](https://thespacer-blog.netlify.app/subscribe/) to my blog to receive updates whenever we post._
