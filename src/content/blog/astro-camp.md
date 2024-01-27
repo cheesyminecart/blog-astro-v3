@@ -16,9 +16,9 @@ description: Reflecting on a personal project of mine, in the most light pollute
 
 **Astronomy - the solitary hobby. Only if you let it be, though!**
 
-I've been taking astrophotographs for the past 4 months, mostly as a motivator for space. Regardless of the numerous equipment failures and cloud-covered nights I've seen, it's been one of the best choices I've ever made. I'd even signed up for astronomy camps - though often times, the weather would be cloudy.
+I've been taking astrophotographs for the past 4 months, mostly as a motivator for space. Regardless of the numerous equipment failures and cloud-covered nights I've seen, it's been one of the best choices I've ever made. I'd even signed up for astronomy camps, hoping to get out of the city for a while, only to be met with clouds upon clouds.
 
-That's when I wondered: _Could I make my own astronomy camp?_
+With my frustrations came the wonder: _Could I make an astronomy camp?_
 
 Where I'm from, this is almost unheard of - light pollution here makes the sky shine at an ambient magnitude of 10, making it almost impossible to see anything other than the moon and some planets. It's absolutely terrible knowing that kids here have to go almost 2 hours out just to see stars - which the local pace of life these days doesn't permit.
 
