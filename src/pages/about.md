@@ -23,4 +23,11 @@ Contact me at [](thearchive234@gmail.com)!
 
 Here's a list of my other socials:
 
-1. AstroBin
+1. AstroBin: <LinkButton
+         className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
+         href="https://www.astrobin.com/users/cheesyminecart/"
+       >My Profile</LinkButton>
+2. Medium: <LinkButton
+         className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
+         href="https://medium.com/@cheesyminecart"
+       >My Profile</LinkButton>

@@ -5,7 +5,6 @@ import LinkButton from "@components/LinkButton.astro";
 import { SOCIALS } from "@config";
 import Modal from "@components/modal.astro";
 import GalleryLayout from "@layouts/GalleryLayout.astro";
-import Gallery from "@components/gallery.astro";
 
 const socialCount = SOCIALS.filter(social => social.active).length;
 ---
@@ -14,7 +13,6 @@ const socialCount = SOCIALS.filter(social => social.active).length;
     <Header />
 
     <main class="antialiased p-4 md:ml-64 h-auto pt-20">
-        <Gallery />
     </main>
 
     <Modal />
