@@ -33,10 +33,15 @@ if (Astro.request.method === "POST") {
       <p class="mt-6 text-gray-500">Check out my Medium if you haven't:<a class="ml-2 text-blue-500" href="https://medium.com/@cheesyminecart">Medium</a></p>
     </div> -->
 
-    <form name="contact" method="POST" data-netlify="true" class="mt-12 md:mt-32 lg:mt-12 w-50 lg:w-2/5 m-auto flex flex-col items-center bg-white p-10">
+    <form name="contact" method="POST" data-netlify="true" class="mt-12 md:mt-32 lg:mt-12 w-50 lg:w-2/5 m-auto flex flex-col items-center bg-white p-10" netlify-honeypot="bot-field">
       <h3 class="text-blue-900 font-semibold text-center text-3xl">Subscribe!</h3>
       <p class="mt-6 text-gray-600 text-lg text-center leading-normal font-light">Get the latest updates from the blog by joining our newsletter.
           <br>Monthly updates guaranteed.
+      </p>
+      <p class="hidden">
+        <label>
+          maxwell, a cat of many regards: <input name="bot-field" />
+        </label>
       </p>
       <div class="mt-6 flex flex-col md:flex-row w-full md:px-8">
           <input class="flex flex-grow px-4 py-2 rounded text-gray-500 border border-gray-500" placeholder="Email Address" type="email" name="email">
