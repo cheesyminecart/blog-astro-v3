@@ -41,7 +41,7 @@ The **T-type star** represents brown dwarves with temperatures between 700-1300 
 
 For some reason, some brown dwarves are also known to emit X-Rays - but being so dim, there's no way you can explain that emission with the black-body spectrum. So what's going on?
 
-There's a specific quirk these stars have - they've got really, really profound lithium ionisation lines. Lithium's actually produced in small amounts by the [[Fusion Chains#Proton-Proton Chain|proton-proton chain]], but being an intermediary stage it doesn't last for long. For T-Type stars, they've still got the lithium from the chain, but because it isn't hot enough to facilitate the remainder of the fusion chain it doesn't break down. Lithium ions emit a line known as the K$\alpha$ (K-alpha) line, which is in the X-Rays, and we're back to where we started!
+There's a specific quirk these stars have - they've got really, really profound lithium ionisation lines. Lithium's actually produced in small amounts by the [[Fusion Chains#Proton-Proton Chain|proton-proton chain]], but being an intermediary stage it doesn't last for long. For T-Type stars, they've still got the lithium from the chain, but because it isn't hot enough to facilitate the remainder of the fusion chain it doesn't break down. Lithium ions emit a line known as the Kα (K-alpha) line, which is in the X-Rays, and we're back to where we started!
 
 The **Y-type star** represents the coolest of the cool, with temperatures comparable to the Earth's surface. In fact, the coldest brown dwarf we've seen is the aptly-named **WISE J085510.83−071442.5**, a Y4V brown dwarf with a temperature of 285 kelvins - or 12 degrees. Yes, 'stars' can get this cold.
 
