@@ -2,7 +2,7 @@
 title: Brown Dwarfs
 author: Julien (cheesyminecart)
 pubDatetime: 2024-03-17T00:36:19Z
-postSlug: brown-dwarf
+postSlug: what-are-brown-dwarfs
 featured: true
 draft: false
 tags:
