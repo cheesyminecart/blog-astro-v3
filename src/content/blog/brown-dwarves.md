@@ -15,7 +15,7 @@ ogImage: /blog-images/ytypedwarfbinary.png
 description: Is it a planet? Is it a star? No! It's a brown dwarf. Unravel their secrets by peeling back the layers of their dense clouds, brace yourselves against the searing heat of an L-Type dwarf, and journey through the wild world of brown dwarfs - one that'll leave you starry-eyed.
 ---
 
-Not every star is created equal. Some go on to, quite literally, be stars of the stellar world, burning blue, bright, fast, dead. Others prefer a more standard route, living a fulfilled life, maybe for a couple tens of billions of years, then dying, surrounded by their planets. [[Red Dwarves (Astro)|Red dwarves]] just seem to live forever - we haven't even seen the first ones die yet!
+Not every star is created equal. Some go on to, quite literally, be stars of the stellar world, burning blue, bright, fast, dead. Others prefer a more standard route, living a fulfilled life, maybe for a couple tens of billions of years, then dying, surrounded by their planets. Red dwarves just seem to live forever - we haven't even seen the first ones die yet!
 
 Come the misfits. The 'burnouts' - what was once an active, outgoing protostar now reduced to a cooling husk, only visible in the far infrared - the **Brown Dwarfs.**
 
