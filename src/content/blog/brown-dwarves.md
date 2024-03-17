@@ -31,7 +31,7 @@ First, the **L-Type Star.** This classification refers to stars with temperature
 
 <figcaption style="text-align:center">An early L-Type star, with two orbiting planets in frame.</figcaption>
 
-These stars often retain the granular surface we see on the sun - just much larger proportionally to the star's size, showing convective cells. Sometimes, these dwarves have a timeline to them - fusion happens at a temperature of 3 million kelvins, and if the star is only just able to cross the threshold, a buildup of degenerate helium will eventually stop fusion altogether, allowing the star to cool.
+These stars often retain the granular surface we see on other stars - just much larger proportionally to the star's size, showing convective cells. Sometimes, these dwarves have a timeline to them - fusion happens at a temperature of 3 million kelvins, and if the star is only just able to cross the threshold, a buildup of degenerate helium will eventually stop fusion altogether, allowing the star to cool.
 
 The **T-type star** represents brown dwarves with temperatures between 700-1300 kelvins.
 
