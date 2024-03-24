@@ -51,4 +51,4 @@ The **Y-type star** represents the coolest of the cool, with temperatures compar
 
 Most of the time, we use radio telescopes to get images of these stars. There's a lot more to space than we really know - and these invisible objects are the first on our list!
 
-_All images taken on SpaceEngine. Like what you see? Feel free to [subscribe](https://thespacer-blog.netlify.app/subscribe/) to our blog to receive updates whenever we post._
+_All images taken on SpaceEngine. Like what you see? Feel free to [subscribe](https://thespacer-blog.netlify.app/subscribe/) to our blog to receive updates whenever I post._
