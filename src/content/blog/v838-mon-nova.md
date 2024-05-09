@@ -3,7 +3,7 @@ author: Julien (cheesyminecart)
 pubDatetime: 2023-10-23T00:53:04Z
 title: The Unicorn's Enigma - V838 Monocerotis
 postSlug: v838-mon-nova
-featured: true
+featured: false
 draft: false
 tags:
   - astrophysics

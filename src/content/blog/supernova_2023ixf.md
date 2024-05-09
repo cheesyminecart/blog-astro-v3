@@ -3,7 +3,7 @@ author: Julien (cheesyminecart)
 pubDatetime: 2023-08-20T20:12:36Z
 title: SN 2023ixf - Dissecting a Supernova from Start to Finish
 postSlug: sn-2023-ixf-exp
-featured: true
+featured: false
 draft: false
 tags:
   - astrophysics
