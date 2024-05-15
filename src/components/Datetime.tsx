@@ -28,9 +28,6 @@ export default function Datetime({
       <span className="sr-only">Posted on:</span>
       <span className={`italic ${size === "sm" ? "text-sm" : "text-base"}`}>
         <FormattedDatetime datetime={datetime} />
-      </span>
-      <span className={`italic ${size === "sm" ? "text-sm" : "text-base"}`}>
-        <FormattedDatetime datetime={datetime} />
         <span> ({readingTime})</span> {/* display reading time */}
       </span>
     </div>
