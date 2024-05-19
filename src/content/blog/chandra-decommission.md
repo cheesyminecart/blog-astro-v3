@@ -5,6 +5,12 @@ title: NASA, don't decommission Chandra!
 postSlug: chandra-xray-telescope
 featured: true
 draft: false
+tags:
+  - astrophysics
+  - astronomy
+  - telescopes
+  - physics
+  - science
 ogImage: ""
 description: NASA's got some news for Chandra, our best (and only) x-ray observatory. Astronomers aren't happy.
 ---
