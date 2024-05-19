@@ -3,7 +3,7 @@ title: Dungeons and Dragons and Me
 author: Julien (cheesyminecart)
 pubDatetime: 2023-06-19T19:32:55Z
 postSlug: dnd-exp-1
-featured: false
+featured: true
 draft: false
 tags:
   - casual
