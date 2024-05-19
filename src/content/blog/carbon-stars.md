@@ -5,6 +5,12 @@ title: Carbon Stars - a Star's Finale
 postSlug: carbon-stars
 featured: false
 draft: false
+tags:
+  - astrophysics
+  - astronomy
+  - stars
+  - physics
+  - science
 ogImage: ""
 description: NASA's got some news for Chandra, our best (and only) x-ray observatory. Astronomers aren't happy.
 ---

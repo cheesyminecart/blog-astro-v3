@@ -10,6 +10,7 @@ tags:
   - astronomy
   - science
   - physics
+  - stars
 ogImage: "artist_corbor.jpg"
 description: Let's take a look at R Coronae Borealis Variables! From their formation to their demise in three minutes.
 ---
