@@ -1,11 +1,11 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
-  author: "Sat Naing",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
-  ogImage: "astropaper-og.jpg",
+  website: "https://thespacer-blog.com", // replace this with your deployed domain
+  author: "Julien",
+  desc: "A space blog.",
+  title: "The Spacer",
+  ogImage: "favicon.svg",
   lightAndDarkMode: true,
   postPerPage: 3,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
@@ -26,45 +26,39 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/cheesyminecart",
     linkTitle: ` ${SITE.title} on Github`,
     active: true,
   },
   {
-    name: "Facebook",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Facebook`,
-    active: true,
-  },
-  {
     name: "Instagram",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "www.instagram.com/cheesyminecart_astro",
     linkTitle: `${SITE.title} on Instagram`,
     active: true,
   },
   {
+    name: "Facebook",
+    href: "",
+    linkTitle: `${SITE.title} on Facebook`,
+    active: true,
+  },
+  {
     name: "LinkedIn",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://www.linkedin.com/in/julien-cheung-066459286/",
     linkTitle: `${SITE.title} on LinkedIn`,
     active: true,
   },
   {
     name: "Mail",
-    href: "mailto:yourmail@gmail.com",
+    href: "thearchive234@gmail.com",
     linkTitle: `Send an email to ${SITE.title}`,
     active: false,
   },
   {
-    name: "Twitter",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Twitter`,
-    active: false,
-  },
-  {
     name: "Twitch",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://www.twitch.tv/cheesyminecart_astro",
     linkTitle: `${SITE.title} on Twitch`,
-    active: false,
+    active: true,
   },
   {
     name: "YouTube",
@@ -79,21 +73,9 @@ export const SOCIALS: SocialObjects = [
     active: false,
   },
   {
-    name: "Snapchat",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Snapchat`,
-    active: false,
-  },
-  {
     name: "Pinterest",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Pinterest`,
-    active: false,
-  },
-  {
-    name: "TikTok",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on TikTok`,
     active: false,
   },
   {
@@ -130,12 +112,6 @@ export const SOCIALS: SocialObjects = [
     name: "Steam",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Steam`,
-    active: false,
-  },
-  {
-    name: "Telegram",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Telegram`,
     active: false,
   },
   {
