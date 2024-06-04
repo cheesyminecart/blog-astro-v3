@@ -10,7 +10,7 @@ tags:
   - life
   - coding
 ogImage: ""
-description: Is Web Development really accessible from the get-go?
+description: Is web development really accessible from the get-go?
 ---
 
 Short answer, no.
