@@ -11,6 +11,8 @@ tags:
   - coding
 ogImage: ""
 description: Is web development really accessible from the get-go?
+pubDatetime: 
+modDatetime: 
 ---
 
 Short answer, no.
