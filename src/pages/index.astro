@@ -23,39 +23,53 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <Header />
   <main id="main-content">
     <section id="hero">
-      <h1>Mingalaba</h1>
-      <a
-        target="_blank"
-        href="/rss.xml"
-        class="rss-link"
-        aria-label="rss feed"
-        title="RSS Feed"
-      >
-        <svg xmlns="http://www.w3.org/2000/svg" class="rss-icon"
-          ><path
-            d="M19 20.001C19 11.729 12.271 5 4 5v2c7.168 0 13 5.832 13 13.001h2z"
-          ></path><path
-            d="M12 20.001h2C14 14.486 9.514 10 4 10v2c4.411 0 8 3.589 8 8.001z"
-          ></path><circle cx="6" cy="18" r="2"></circle>
-        </svg>
-        <span class="sr-only">RSS Feed</span>
-      </a>
-
       <p>
-        AstroPaper is a minimal, responsive, accessible and SEO-friendly Astro
-        blog theme. This theme follows best practices and provides accessibility
-        out of the box. Light and dark mode are supported by default. Moreover,
-        additional color schemes can also be configured.
+        Welcome to my blog! I'm a 17 year old high school student interested in
+        all things astronomy!
       </p>
       <p>
-        Read the blog posts or check
+        This website is a continuation of my old blog, which will serve as an
+        external archive for my posts. You can check it out
         <LinkButton
-          className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
-          href="https://github.com/satnaing/astro-paper#readme"
+          className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
+          href="https://shorturl.at/klQ58"
         >
-          README
-        </LinkButton> for more info.
+          here
+        </LinkButton>. My own time capsule!
       </p>
+      <p>
+        Here's a persistent project I started inspired by the likes of
+        <LinkButton
+          className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
+          href="https://publish.obsidian.md/cheesyminecart/Home"
+        >
+          this link
+        </LinkButton> to go and peruse the culmination of several months of work!
+      </p>
+      <div style="align: center; padding:20px">
+        <img
+          src="/blog-images/moon-8-stack-crescent-website.jpg"
+          alt="Moon Preview"
+          width="600"
+          height="720"
+          style="padding: 18px; margin:auto; border-radius: 8px;"
+        />
+        <figcaption style="text-align: center" style="text-decoration: italic">
+          My photo of the moon!
+        </figcaption>
+      </div>
+      <div>
+        <span style="text-align:justify; padding:12px"
+          ><b><i><u>Feel free to support me through donating:</u></i></b></span
+        >
+        <script
+          type="text/javascript"
+          src="https://storage.ko-fi.com/cdn/widget/Widget_2.js"
+        ></script><script type="text/javascript">
+          kofiwidget2.init("Support Me on Ko-fi", "#e02828", "X8X3PL6LC");
+          kofiwidget2.draw();
+        </script>
+      </div>
       {
         // only display if at least one social link is enabled
         socialCount > 0 && (
