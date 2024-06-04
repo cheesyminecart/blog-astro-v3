@@ -6,8 +6,6 @@ import remarkCollapse from "remark-collapse";
 import sitemap from "@astrojs/sitemap";
 import { remarkReadingTime } from "./src/utils/remark-reading-time.mjs";
 
-import vercel from "@astrojs/vercel/serverless";
-
 // https://astro.build/config
 export default defineConfig({
   site: "https://thespacer-blog.com",
@@ -32,6 +30,4 @@ export default defineConfig({
       exclude: ["@resvg/resvg-js"]
     }
   },
-  output: "server",
-  adapter: vercel()
 });
