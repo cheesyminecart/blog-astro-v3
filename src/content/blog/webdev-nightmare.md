@@ -1,6 +1,7 @@
 ---
 author: Julien (cheesyminecart)
 pubDatetime: 2023-08-11T22:30:19.113Z
+modDatetime:
 title: My Attempt at Web Development - One-Line Solutions Galore
 postSlug: web-dev-trials-tribulations
 featured: false
@@ -11,8 +12,6 @@ tags:
   - coding
 ogImage: ""
 description: Is web development really accessible from the get-go?
-pubDatetime: 
-modDatetime: 
 ---
 
 Short answer, no.
