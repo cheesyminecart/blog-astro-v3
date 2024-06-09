@@ -1,7 +1,7 @@
 ---
 title: Pluto's Planetary Sister - Triton
 author: Julien (cheesyminecart)
-pubDatetime: 2024-06-09T15:30:24Z
+pubDatetime: 2024-06-09T06:30:24Z
 modDatetime:
 slug: triton-neptune
 featured: true
