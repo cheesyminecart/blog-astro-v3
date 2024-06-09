@@ -1,0 +1,67 @@
+---
+import Layout from "@layouts/Layout.astro";
+import Header from "@components/Header.astro";
+import Footer from "@components/Footer.astro";
+import LinkButton from "@components/LinkButton.astro";
+import { SOCIALS } from "@config";
+
+const socialCount = SOCIALS.filter(social => social.active).length;
+---
+
+<Layout />
+<Header />
+<div class="flex justify-center">
+  <h1 class="font-bold underline align-center">My Astrophotography Gallery.</h1>
+</div>
+<!--Add links to other socials here. DO NOT NOT SELF-ADVERTISE~!-->
+<div class="flex justify-center pb-6 pt-6">
+  <p class="semibold align-center">
+    For image details, check out <LinkButton
+      className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
+      href="https://www.astrobin.com/users/cheesyminecart/"
+      >my AstroBin account!</LinkButton
+    >
+  </p>
+
+  <div
+    class="grid grid-cols-3 md:grid-cols-2 gap-4 h-1/2 w-1/2 justify-center justify-self-center m-auto"
+  >
+    <div>
+      <img
+        class="h-auto max-w-full rounded-lg"
+        src="/blog-images/moon 150224 processedBLOG.png"
+        alt="Generic Moon Photo test - after my mount broke!"
+      />
+    </div>
+    <div>
+      <img
+        class="h-auto max-w-full rounded-lg"
+        src="/blog-images/Light_Jupiter_1.png"
+        alt="TESTING!"
+      />
+    </div>
+    <div>
+      <img
+        class="h-auto max-w-full rounded-lg"
+        src="/blog-images/moon.JPG"
+        alt="friend contribution - moon photo w/ my equipment + tips!"
+      />
+    </div>
+    <div>
+      <img
+        class="h-auto max-w-full rounded-lg"
+        src="/blog-images/1K moon (oops).jpg"
+        alt="bad mineral moon"
+      />
+    </div>
+    <div>
+      <img
+        class="h-auto max-w-full rounded-lg"
+        src="/blog-images/mineral_moon.jpeg"
+        alt="One of my first mineral moons!"
+      />
+    </div>
+  </div>
+
+  <Footer />
+</div>
