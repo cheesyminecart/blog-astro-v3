@@ -41,7 +41,7 @@ All these revelations are waiting for us just past the 35AU mark from the sun. I
 
 _Like what you see? Feel free to [subscribe](https://thespacer-blog.netlify.app/subscribe/) to our blog to receive updates whenever we post._
 
-# Sources
+# Sources (Further Reading)
 
 https://science.nasa.gov/neptune/moons/triton/
 
