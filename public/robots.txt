@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thespacer-blog.com/sitemap-index.xml
