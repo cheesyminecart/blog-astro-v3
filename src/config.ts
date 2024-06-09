@@ -2,7 +2,7 @@ import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
   website: "https://thespacer-blog.com", // replace this with your deployed domain
-  author: "Julien",
+  author: "Julien (cheesyminecart)",
   desc: "Need some technical astrophysics delivered to you intuitively? The Spacer is here for you, complete with 20+ articles as of writing!",
   title: "The Spacer",
   ogImage: "favicon.svg",
