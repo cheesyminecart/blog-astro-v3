@@ -11,7 +11,7 @@ tags:
   - info
   - astrophysics
   - moons
-ogImage: "/blog-images/triton-surface.png"
+ogImage: "triton-surface.png"
 description: Learn all about Triton, Neptune's disproportionately large moon, and why we should be going back for more observations!
 ---
 
