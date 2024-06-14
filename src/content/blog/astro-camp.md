@@ -3,7 +3,7 @@ title: An Astronomy Advocacy Adventure - Chapter 1
 author: Julien (cheesyminecart)
 pubDatetime: 2024-01-26T21:40:28Z
 modDatetime:
-postSlug: astro-advoc-adven
+slug: astro-advoc-adven
 featured: true
 draft: false
 tags:

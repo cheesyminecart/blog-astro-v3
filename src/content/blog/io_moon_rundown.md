@@ -2,7 +2,7 @@
 title: Io - the non-icy Jovian Moon
 author: Julien (cheesyminecart)
 pubDatetime: 2023-04-23T21:19:12Z
-postSlug: io_explore_info
+lug: io-jupiter-moon
 featured: false
 draft: false
 tags:

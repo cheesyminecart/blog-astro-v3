@@ -2,7 +2,7 @@
 author: Julien
 pubDatetime: 2024-05-09T23:00:08.866Z
 title: NASA, don't decommission Chandra!
-postSlug: chandra-xray-telescope
+slug: chandra-xray-telescope
 featured: true
 draft: false
 tags:

@@ -2,7 +2,7 @@
 title: Euclid's Here!
 author: Julien (cheesyminecart)
 pubDatetime: 2023-11-17T21:58:55Z
-postSlug: euclid-blog
+slug: euclid-blog
 featured: true
 draft: false
 tags:

@@ -2,7 +2,7 @@
 author: Julien
 pubDatetime: 2023-04-23T23:14:01.866Z
 title: Carbon Stars - a Star's Finale
-postSlug: carbon-stars
+slug: carbon-stars
 featured: false
 draft: false
 tags:

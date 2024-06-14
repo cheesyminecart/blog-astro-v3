@@ -2,7 +2,7 @@
 author: Julien
 pubDatetime: 2022-12-28T04:59:04.866Z
 title: footer copyable
-postSlug: subscribe-footer
+lug: subscribe-footer
 featured: false
 draft: true
 ogImage: ""

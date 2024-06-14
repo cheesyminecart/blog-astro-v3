@@ -2,7 +2,7 @@
 title: The Jewel of the Crown - R Coronae Borealis
 author: Julien (cheesyminecart)
 pubDatetime: 2024-02-12T20:59:28Z
-postSlug: r-cor-bor
+lug: r-cor-bor
 featured: true
 draft: false
 tags:

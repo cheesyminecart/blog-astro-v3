@@ -2,7 +2,7 @@
 author: Julien (cheesyminecart)
 pubDatetime: 2023-09-15T23:25:04.866Z
 title: Iron Lung - Rundown & Review
-postSlug: iron-lung-review-exp
+lug: iron-lung-review-exp
 featured: false
 draft: false
 ogImage: ""
