@@ -12,7 +12,7 @@ tags:
   - physics
   - science
 ogImage: ""
-description: NASA's got some news for Chandra, our best (and only) x-ray observatory. Astronomers aren't happy.
+description: Carbon stars are exotic variable stars with profound carbon spectra. Click to learn more!
 ---
 
 Being as rare as they are, Carbon Stars are incredibly mysterious.
