@@ -39,7 +39,7 @@ This isn't a threat for now. Sagittarius A\* and its neighbour, Andromeda, have 
 
 Even while being very, very far away from us, they're still quite the threat. Well, they can outshine sun-like stars 700 light years away from us - a difference in brightness of around 10 to the 12 magnitudes, compared to the Sun. The closest one of these objects is located 581 million years away - a corresponding luminosity of 1.37 trillion times our sun! Even then, it isn't the brightest quasar - 3C 273, a quasar 2.4 billion years away from us, shines with an apparent visual magnitude of 12.9, or a brightness of almost 25 trillion suns!
 
-![3C 273 imaged by Hubble](/blog-images/3c273%20hubble%20image.webp)
+![3C 273 imaged by Hubble](/blog-images/3c273-hubble-image.webp)
 
 <figcaption style="text-align: center">3C 273 - Imaged by the "Hubble Space Telescope", a human invention.</figcaption>
 
