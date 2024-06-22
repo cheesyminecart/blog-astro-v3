@@ -13,6 +13,7 @@ ogImage: ""
 description: My experience with Dungeons and Dragons - and why I absolutely adore it!
 ---
 
+test
 What other game is more synonymous with "nerd" than DND? Countless hours spent mulling over a piece of paper, poor handwriting scrawling away a character's life, a map, foreign lands stretching across continents, carefully etched into the paper sprawled over your bed... that idea of endless possibilities, the ability to forge your own story through war or peace, is what makes DND so enticing to me - and I hope it will convince you to try it out for yourself!
 
 First off, what is "DnD"? Dungeons and Dragons is a turn-based, tabletop roleplaying game (or RPG!) that revolves around luck-based dice rolls. These dice rolls can change the course of the game on a whim, ranging from missing attacks to strokes of unfortunate luck, the possibilities are endless! A dungeon master will run a game, meaning that they will play as any enemies or non-playable characters in order to enrich the user experience, allowing for groups of between 3-6 people to join and play together depending on their preference.

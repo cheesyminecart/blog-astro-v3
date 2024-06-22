@@ -24,7 +24,7 @@ It wasn't always this way. Hot Jupiters are theorised to have once been ordinary
 
 At distances so close to the star, the gravitational force from the central star is extremely large. This distance also lets us consider a planet as a system of particles given the reduced scale of the system, rather than an arbitrary 'point', common practice in two-body systems. As a result, we've got to consider the **tidal forces** acting on the planet - a measure of the difference between the gravitational force at a body's equator and poles, where the radius to the sun is different. It's the same mechanism that drive the tides on Earth, though on a much smaller scale! These tidal forces deform the planet, forcing the planet into an egg-like oblong shape.
 
-![WASP-12b](/blog-images/WASP-12.webp)
+![WASP-12b](/blog-images/WASP-12.png)
 
 <figcaption style="text-align:center">WASP-12b, a planet that has been warped into an egg-like shape thanks to its proximity to its star. </figcaption>
 
