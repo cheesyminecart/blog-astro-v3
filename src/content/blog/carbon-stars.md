@@ -34,3 +34,5 @@ One day, our sun's going to look like these stars, bloated, red, dying. Even the
 ![alt text](/blog-images/v-hya-jets.png)
 
 <figcaption style="text-align: center">V Hydrae's jets; superheated plasma is ejected by a companion</figcaption>
+
+_Like what you see? Feel free to [subscribe](https://thespacer-blog.com/subscribe/) to our blog to receive updates whenever we post._

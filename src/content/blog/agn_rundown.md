@@ -54,3 +54,5 @@ For now, we'll be interrogating some of their captured field operatives - the mi
 <figcaption style="text-align: center">V1033 Scorpii - rendered in Space Engine!</figcaption>
 
 We leave at dawn. Whatever that means.
+
+_Like what you see? Feel free to [subscribe](https://thespacer-blog.com/subscribe/) to our blog to receive updates whenever we post._

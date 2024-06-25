@@ -47,3 +47,5 @@ Now that my website's finally up, it's time to give my verdict - should anyone w
 In short, no. Though this was an incredibly valuable learning experience - it was terribly frustrating every step of the way, and it is my utmost belief that nobody harbors the time nor patience to see the art of website development through.
 
 ![preset-image](/assets/dev.svg)
+
+_Like what you see? Feel free to [subscribe](https://thespacer-blog.com/subscribe/) to our blog to receive updates whenever we post._

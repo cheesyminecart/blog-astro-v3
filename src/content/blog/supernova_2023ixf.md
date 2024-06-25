@@ -43,7 +43,7 @@ Can't wait until Betelgeuse goes supernova! My camera would love those shots.
 
 <figcaption style="text-align: center">The Crab Nebula, a supernova remnant.</figcaption>
 
-_Like what you see? Feel free to [subscribe](https://thespacer-blog.netlify.app/subscribe/) to our blog to receive updates whenever we post._
+_Like what you see? Feel free to [subscribe](https://thespacer-blog.com/subscribe/) to our blog to receive updates whenever we post._
 
 ## Citations
 

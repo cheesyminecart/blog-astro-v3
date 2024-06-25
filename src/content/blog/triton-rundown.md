@@ -39,7 +39,7 @@ All these revelations are waiting for us just past the 35AU mark from the sun. I
 
 ![Triton facing the sun](/blog-images/triton-sun-atmos.png)
 
-_Like what you see? Feel free to [subscribe](https://thespacer-blog.netlify.app/subscribe/) to our blog to receive updates whenever we post._
+_Like what you see? Feel free to [subscribe](https://thespacer-blog.com/subscribe/) to our blog to receive updates whenever we post._
 
 # Sources (Further Reading)
 

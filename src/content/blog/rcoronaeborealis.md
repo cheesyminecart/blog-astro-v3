@@ -44,3 +44,5 @@ A schematic diagram for both methods of RcB Variable formation! Credit: Original
 It's projected that this honeymoon phase won't last for long - unfortunately, it heralds the last gasp of a dying star. At any moment, R Coronae Borealis will cease helium fusion once again, regressing back into a white dwarf. It's as if these stars have been given a second wind - only to have it be stripped of them by the inexorable passage of time.
 
 That's one 'surprise' down. Another couple ten thousand or so unanswered questions to go!
+
+_Like what you see? Feel free to [subscribe](https://thespacer-blog.com/subscribe/) to our blog to receive updates whenever we post._

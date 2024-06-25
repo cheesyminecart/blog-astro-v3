@@ -40,4 +40,4 @@ It'll happen one day! A Nancy Grace Roman Telescope proposal beckons...
 
 <figcaption style="text-align: center">A simulation of V838 Monocerotis now. Remember - it was 20,000 light years away!</figcaption>
 
-_Like what you see? Feel free to [subscribe](https://thespacer-blog.netlify.app/subscribe/) to our blog to receive updates whenever we post._
+_Like what you see? Feel free to [subscribe](https://thespacer-blog.com/subscribe/) to our blog to receive updates whenever we post._

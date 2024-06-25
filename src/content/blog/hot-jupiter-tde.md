@@ -38,6 +38,6 @@ If not for the pull of Saturn, it's highly likely that Jupiter would've met the 
 
 It'd make a great barbecue though - singly-ionised hydrogen? Count me in.
 
-_Like what you see? Feel free to [subscribe](https://thespacer-blog.netlify.app/subscribe/) to our blog to receive updates whenever we post._
+_Like what you see? Feel free to [subscribe](https://thespacer-blog.com/subscribe/) to our blog to receive updates whenever we post._
 
 _Simulations of KELT-9 and WASP-12 taken with SpaceEngine._

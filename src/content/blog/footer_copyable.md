@@ -9,4 +9,4 @@ ogImage: ""
 description: copy this chunk of text into the bottom of each blog post
 ---
 
-_Like what you see? Feel free to [subscribe](https://thespacer-blog.netlify.app/subscribe/) to our blog to receive updates whenever we post._
+_Like what you see? Feel free to [subscribe](https://thespacer-blog.com/subscribe/) to our blog to receive updates whenever we post._

@@ -31,3 +31,5 @@ Moving on from the gravitational effects, Io, with its molten iron core, cuts th
 For a long time, Io was believed to be a dead rock. It's interesting seeing interest in Io resurgent despite the near-celebrity status of its cousin Europa. Perhaps JUICE has paved the way for interest in the Jovian system to flourish as it did when Voyager 1 visited - whatever it is, I'm glad more and more people are willing to share their experiences exploring this exotic, often overlooked celestial body.
 
 ![Voyager 2's Shot of Io](/blog-images/voyager_2_io_shot.jpeg)
+
+_Like what you see? Feel free to [subscribe](https://thespacer-blog.com/subscribe/) to our blog to receive updates whenever we post._

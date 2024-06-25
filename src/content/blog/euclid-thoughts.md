@@ -45,4 +45,4 @@ https://www.euclid-ec.org
 https://gist.github.com/ycopin/10155d1aae12b8dec08b
 https://nexsci.caltech.edu/workshop/2017/EUCLID-SAGAN_BEAULIEU.pdf
 
-_Like what you see? Feel free to [subscribe](https://thespacer-blog.netlify.app/subscribe/) to our blog to receive updates whenever we post._
+_Like what you see? Feel free to [subscribe](https://thespacer-blog.com/subscribe/) to our blog to receive updates whenever we post._

@@ -36,4 +36,4 @@ https://arxiv.org/pdf/2306.16213.pdf
     <figcaption style="text-align: center">Artist's Impression of the Space-Time Continuum</figcaption>
 </div>
 
-_Like what you see? Feel free to [subscribe](https://thespacer-blog.netlify.app/subscribe/) to our blog to receive updates whenever we post._
+_Like what you see? Feel free to [subscribe](https://thespacer-blog.com/subscribe/) to our blog to receive updates whenever we post._
