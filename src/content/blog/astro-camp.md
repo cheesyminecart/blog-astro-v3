@@ -27,7 +27,7 @@ I ignored all of that and went ahead with the 'camp'. Friends were invited, plan
 
 The plan was to let others take photos of the moon - the brightest, most beginner-friendly object in the night sky. All the while, I'd be taking my own photos of Jupiter, the second hurdle for any planetary photographer. Setting up, focusing and taking some daytime lunar images took around 45 minutes. The sun was setting, the sky grew darker, everything was in place for the perfect planetary photo.
 
-![Telescope Rig!](/blog-images/telescope%20rig%20baseline%20image.jpeg)
+![Telescope Rig!](/blog-images/telescope-rig-baseline-image.jpeg)
 
 <figcaption style="text-align:center">My (semi)-portable rig for astrophotography!</figcaption>
 
@@ -47,4 +47,4 @@ Moon photos below - released with permission. With a DSLR/Mirrorless camera, you
 
 <figcaption style="text-align:center">Moon photo - by friends!</figcaption>
 
-_Like what you see? Feel free to [subscribe](https://thespacer-blog.netlify.app/subscribe/) to my blog to receive updates whenever we post._
+_Like what you see? Feel free to [subscribe](https://thespacer-blog.com/subscribe/) to my blog to receive updates whenever we post._
