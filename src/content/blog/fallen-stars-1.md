@@ -4,6 +4,10 @@ pubDatetime: 2022-12-28T04:59:04.866Z
 title: Dev Blog 1 - Project Announcement
 lug: fallen-stars-upd
 featured: true
+tags:
+  - life
+  - sideproject
+  - dnd
 draft: false
 description: copy this chunk of text into the bottom of each blog post
 ---

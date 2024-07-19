@@ -5,6 +5,8 @@ title: footer copyable
 lug: subscribe-footer
 featured: true
 draft: true
+tags:
+  -
 ogImage: ""
 description: copy this chunk of text into the bottom of each blog post
 ---
