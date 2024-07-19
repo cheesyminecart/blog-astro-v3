@@ -11,7 +11,7 @@ tags:
   - astrophotography
   - astronomy
   - info
-ogImage: "https://divisions-prod.s3.amazonaws.com/root/images/NANOGrav_PTA_GWB_15yr-WEB.original.jpg"
+ogImage: ""
 description: Supernova in our galactic neighbourhood?
 ---
 
