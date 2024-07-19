@@ -6,7 +6,7 @@ lug: subscribe-footer
 featured: true
 draft: true
 tags:
-  -
+  - template
 ogImage: ""
 description: copy this chunk of text into the bottom of each blog post
 ---
