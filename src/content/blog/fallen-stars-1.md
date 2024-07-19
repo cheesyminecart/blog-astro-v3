@@ -3,14 +3,14 @@ author: Julien
 pubDatetime: 2022-12-28T04:59:04.866Z
 modDatetime:
 title: Dev Blog 1 - Project Announcement
-lug: fallen-stars-upd
+slug: fallen-stars-upd
 featured: true
 tags:
   - life
   - sideproject
   - dnd
 draft: false
-description: copy this chunk of text into the bottom of each blog post
+description: My new worldbuilding project and what I want to do with it!
 ---
 
 ![CAMPAIGN LOGO](/blog-images/FallenStarsLogo.png)
