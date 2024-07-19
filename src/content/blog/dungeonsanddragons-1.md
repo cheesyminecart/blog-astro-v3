@@ -9,7 +9,6 @@ tags:
   - casual
   - gaming
   - life
-ogImage: ""
 description: My experience with Dungeons and Dragons - and why I absolutely adore it!
 ---
 

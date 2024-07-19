@@ -11,7 +11,6 @@ tags:
   - astronomy
   - life
   - camp
-ogImage: ""
 description: Reflecting on a personal project of mine, in the most light polluted city on the planet!
 ---
 

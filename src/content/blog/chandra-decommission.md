@@ -11,7 +11,6 @@ tags:
   - telescopes
   - physics
   - science
-ogImage: ""
 description: NASA's got some news for Chandra, our best (and only) x-ray observatory. Astronomers aren't happy.
 ---
 
