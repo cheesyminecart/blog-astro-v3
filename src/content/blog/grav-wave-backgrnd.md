@@ -2,7 +2,7 @@
 author: Julien (cheesyminecart)
 pubDatetime: 2023-07-20T10:10:36Z
 title: The Gravitational Wave Background
-lug: grav-wave-bkg
+slug: grav-wave-bkg
 featured: false
 draft: false
 tags:

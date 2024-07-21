@@ -23,8 +23,9 @@ All maps will be drawn by me. Lore will be original but may be based heavily off
 
 A playable demo of the campaign will be released on September 1st, complete with lore, 3 starter weapons and 3 classes. Or something along the lines of that.
 
-Join this year's DND ECA to try it! I'm sure it'll be fun. If I can make the maps in time, that is!
+(**For Classmates**)
+Join this year's school DND ECA to try it! I'm sure it'll be fun. If I can make the maps in time, that is!
 
 _Want to try this year's prototype release? Join the DND ECA to do so!_
 
-_Like what you see? Feel free to [subscribe](https://thespacer-blog.com/subscribe/) to our blog to receive updates whenever we post._
+_Like what you see? Feel free to [subscribe](https://thespacer-blog.com/subscribe/) to my blog to receive updates whenever we post._
