@@ -10,7 +10,7 @@ tags:
   - sideproject
   - dnd
 draft: false
-description: My new worldbuilding project and what I want to do with it!
+description: Developing Lore is difficult!
 ---
 
 Back! I've been chugging along with the flags for a while now - excited to share what I've got!
