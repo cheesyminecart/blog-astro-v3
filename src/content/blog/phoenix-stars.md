@@ -11,6 +11,7 @@ tags:
   - info
   - stars
   - science
+draft: false
 description: Delve into born-again events - the 'phoenixes' of the Universe! How do they work? What causes them to rise from the dead husk of a White Dwarf once again? Read the article to learn more.
 ---
 
