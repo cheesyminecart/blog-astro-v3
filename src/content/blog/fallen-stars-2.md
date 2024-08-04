@@ -1,8 +1,8 @@
 ---
 author: Julien
-pubDatetime: 2024-07-19T12:30:04.866Z
+pubDatetime: 2024-08-03T23:37:04.866Z
 modDatetime:
-title: Dev Blog 1 - Project Announcement
+title: Dev Blog 2 - Lore
 slug: fallen-stars-nation-lore
 featured: true
 tags:
