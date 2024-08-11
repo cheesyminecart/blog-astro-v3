@@ -36,8 +36,6 @@ Coronae Borealis is an often-overlooked constellation in the Northern Sky; a sma
 
 To anyone hoping to observe this event, I bid you cloudless skies! Though it'll appear like a normal star during hte nova, bring a starchart - you're going to notice it!
 
-%%final ending image1%%
-
 # Sources Revamp Legitimate Edition
 
 1. T CrB Physical Constants: https://simbad.u-strasbg.fr/simbad/sim-basic?Ident=T+CrB&submit=SIMBAD+search
