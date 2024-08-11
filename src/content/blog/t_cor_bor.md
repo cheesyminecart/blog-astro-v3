@@ -3,7 +3,7 @@ title: T Coronae Borealis - The "Soon-To-Be" Nova
 author: Julien (cheesyminecart)
 pubDatetime: 2024-08-11T23:38:11Z
 modDatetime:
-slug: t-coronae-borealis-nova
+slug: t-cor-bor-nova
 featured: true
 draft: false
 tags:
