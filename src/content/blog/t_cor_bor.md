@@ -28,7 +28,7 @@ In the short-term, most novae are periodic; their 'flare-ups' - increases in bri
 
 This brings us to our target star system this year - **T Coronae Borealis!** A recurrent nova with its nature first catalogued in 1866, the roughly 80-year pulsation period of the star is a true once-in-a-lifetime event, brightening from a paltry magnitude of 10.2 to 2.5 - a roughly 600-fold increase in brightness. That magnitude puts the star in the visible range. This nova'll only last for a week or so - so keep your eyes peeled!
 
-Coronae Borealis is an often-overlooked constellation in the Northern Sky; a small, somewhat dim constellation nested between Boötes and Heracles, it isn't typically on the amateur astronomer's radar. The constellation does have a great number of variable stars, such as the eminent **R Coronae Borealis** (link), also a pulsating star. T Corona Borealis is located close to the south of Epsilon Coronae Borealis, one of the six main stars of the constellation:
+Coronae Borealis is an often-overlooked constellation in the Northern Sky; a small, somewhat dim constellation nested between Boötes and Heracles, it isn't typically on the amateur astronomer's radar. The constellation does have a great number of variable stars, such as the eminent [R Coronae Borealis](https://thespacer-blog.com/posts/r-cor-bor/), also a pulsating star. T Corona Borealis is located close to the south of Epsilon Coronae Borealis, one of the six main stars of the constellation:
 
 ![The Location of T Coronae Borealis.](/blog-images/tcorborloc.png)
 
