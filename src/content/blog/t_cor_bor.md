@@ -12,7 +12,7 @@ tags:
   - science
   - physics
   - stars
-ogImage:
+ogImage: ""
 description: That nova the news' been telling you about - where is it? Why's it still missing? Find out in this article!
 ---
 
