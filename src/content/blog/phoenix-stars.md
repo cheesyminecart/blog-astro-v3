@@ -22,7 +22,7 @@ High school tells us that the death throes of a sun-like star are spent clawing 
 
 To call that model oversimplified would be an understatement. These diagrams misses out on a lot of the intricacies of stellar evolution - even for low-mass stars, you'll be hard pressed to find a good diagram that describes the stellar evolution process in detail. So today, we'll be taking a look at a part that's often overlooked - the AGB and the **Born-Again stars**!
 
-First up, the AGB (Asymptotic Giant Branch) stars. And yes, that's "Asymp-totic", not "Asymp-to-matic". **Mira** (Omicron Ceti) is a great example of one of these stars, being the closest one to us and the first to be discovered. It's a window into the properties of these stars; typically, AGB stars are low-mass, with sun-like masses, long (>100 day) pulsation periods. As a consequence of their expansion, their outer envelopes cool even further into the realm of the late M-type (~3000K). This also means that these stars become much, much brighter in the infrared region (thanks to Planck's Blackbody Law!), as the star's cooler surface emi
+First up, the AGB (Asymptotic Giant Branch) stars. And yes, that's "Asymp-totic", not "Asymp-to-matic". **Mira** (Omicron Ceti) is a great example of one of these stars, being the closest one to us and the first to be discovered. It's a window into the properties of these stars; typically, AGB stars are low-mass, with sun-like masses, long (>100 day) pulsation periods. As a consequence of their expansion, their outer envelopes cool even further into the realm of the late M-type (~3000K). This also means that these stars become much, much brighter in the infrared region (thanks to Planck's Blackbody Law!).
 
 ![Mira](/blog-images/mira-eso-spacecom.webp)
 
