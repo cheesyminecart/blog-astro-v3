@@ -15,7 +15,7 @@ description: Trying something new with the books I read! Wrote a Starship's Mage
 
 _Obligatory spoiler warning!_
 
-Glynn Stewart's Excalibur Lost, though one of his older books,
+Glynn Stewart's Excalibur Lost, though one of his older books, is a hidden gem that sci-fi diehards should pick up at least once in their lives. It's short, it's got class - and it's brimming with adventure.
 
 _Warning! Spoilers._
 
