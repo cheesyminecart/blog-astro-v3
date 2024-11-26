@@ -11,6 +11,7 @@ tags:
   - planets
   - physics
   - science
+ogImage: ""
 description: Exploring the icy objects of the solar system through a tour of centaurs and comets!
 ---
 

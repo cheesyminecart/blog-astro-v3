@@ -11,6 +11,7 @@ tags:
   - astronomy
   - planets
   - info
+ogImage: ""
 description: Hot Jupiters. What are they, and how will they die? Find out here in this article!
 ---
 

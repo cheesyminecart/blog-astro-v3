@@ -11,6 +11,7 @@ tags:
   - stars
   - physics
   - science
+ogImage: ""
 description: Carbon stars are exotic variable stars with profound carbon spectra. Click to learn more!
 ---
 

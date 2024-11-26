@@ -12,6 +12,7 @@ tags:
   - gaming
   - info
   - stories
+ogImage: ""
 description: Reviewing Iron Lung, a critically-acclaimed retro horror game set in the far future!
 ---
 

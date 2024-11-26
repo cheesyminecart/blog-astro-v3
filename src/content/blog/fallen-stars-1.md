@@ -10,6 +10,7 @@ tags:
   - sideproject
   - dnd
 draft: false
+ogImage: ""
 description: My new worldbuilding project and what I want to do with it!
 ---
 

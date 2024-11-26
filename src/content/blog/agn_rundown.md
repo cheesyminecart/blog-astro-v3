@@ -11,6 +11,7 @@ tags:
   - blackholes
   - astrophysics
   - info
+ogImage: ""
 description: Band together in this original adventure, where you roleplay as a party of red dwarfs!
 ---
 
