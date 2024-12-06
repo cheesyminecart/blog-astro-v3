@@ -1,6 +1,7 @@
 ---
 author: Julien
-pubDatetime: 2024-12-06T11:00:15.866Z
+pubDatetime: 2024-12-06T11:00:15.730Z
+modDatetime:
 title: The Ever-Elusive Intermediate-Mass Black Hole
 slug: intermediate-mass-black-hole
 featured: true
@@ -36,3 +37,5 @@ Regardless of what comes of this research, these objects are likely to be stella
 ![An Intermediate-Mass Black Hole](/blog-images/imbh.webp)
 
 <figcaption style="text-align:center">A Black Hole siphoning mass from its neighbour.</figcaption>
+
+_Like what you see? Feel free to [subscribe](https://thespacer-blog.com/subscribe/) to our blog to receive updates whenever we post._
