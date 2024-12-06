@@ -1,6 +1,6 @@
 ---
 author: Julien
-pubDatetime: 2024-10-19T23:30:04.866Z
+pubDatetime: 2024-10-19T23:30:04.816Z
 modDatetime:
 title: Excalibur Lost - Test Book Review
 slug: test-book-review-excaliburlost

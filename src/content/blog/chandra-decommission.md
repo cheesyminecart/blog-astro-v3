@@ -1,6 +1,6 @@
 ---
 author: Julien
-pubDatetime: 2024-05-09T23:00:08.866Z
+pubDatetime: 2024-05-09T23:00:08.87Z
 title: NASA, don't decommission Chandra!
 slug: chandra-xray-telescope
 featured: true

@@ -1,6 +1,6 @@
 ---
 author: Julien
-pubDatetime: 2022-12-28T04:59:04.866Z
+pubDatetime: 2022-12-28T04:59:04.812Z
 title: footer copyable
 lug: subscribe-footer
 featured: true

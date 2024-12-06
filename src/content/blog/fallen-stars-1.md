@@ -1,6 +1,6 @@
 ---
 author: Julien
-pubDatetime: 2024-07-19T12:30:04.866Z
+pubDatetime: 2024-07-19T12:30:04.822Z
 modDatetime:
 title: Dev Blog 1 - Project Announcement
 slug: fallen-stars-upd
