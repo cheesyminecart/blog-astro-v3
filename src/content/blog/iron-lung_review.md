@@ -2,7 +2,7 @@
 author: Julien (cheesyminecart)
 pubDatetime: "2023-09-15T23:25:19Z"
 title: Iron Lung - Rundown & Review
-lug: iron-lung-review-exp
+slug: iron-lung-review-exp
 featured: false
 draft: false
 ogImage: ""
@@ -28,7 +28,7 @@ As the player, you're able to navigate this apocalyptic world through a terminal
 
 ![Iron Lung Submarine Interior](/blog-images/iron-lung-sub-int.webp)
 
-<figcaption style="text-align: center">The Submarine you're In! Have fun...</figcaption>
+<figcaption style="text-align:center">The Submarine you're In! Have fun...</figcaption>
 
 Throughout the game, a bunch of psychological tricks serve to unsettle you - the use of a blood ocean not only compounds an innate lingering thalassophobia within the human psyche but also highlights the disturbing, post-apocalyptic world Szymanski masterfully crafts. In addition, the added touch of the submarine slowly crumbling around you adds more psychological horror to your experience - fires break out, oxygen runs low, low-poly textured blood fills your capsule - the makings of a great night!
 

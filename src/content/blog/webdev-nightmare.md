@@ -3,7 +3,7 @@ author: Julien (cheesyminecart)
 pubDatetime: 2023-08-11T22:30:19.113Z
 modDatetime:
 title: My Attempt at Web Development - One-Line Solutions Galore
-lug: web-dev-trials-tribulations
+slug: web-dev-trials-tribulations
 featured: false
 draft: false
 tags:

@@ -1,7 +1,7 @@
 ---
 title: The AGN Syndicate - The Brief Briefing
 author: Julien (cheesyminecart)
-pubDatetime: 2023-12-28T20:53:17Z
+pubDatetime: "2023-12-28T20:53:17Z"
 slug: agn_syndicate_dnd
 featured: true
 draft: false
