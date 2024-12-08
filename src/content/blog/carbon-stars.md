@@ -1,6 +1,6 @@
 ---
 author: Julien
-pubDatetime: "2023-04-23T23:14:01.866Z"
+pubDatetime: 2023-04-23T23:14:01.866Z
 title: Carbon Stars - a Star's Finale
 slug: carbon-stars
 featured: false
