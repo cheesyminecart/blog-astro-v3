@@ -10,6 +10,7 @@ tags:
   - sideproject
   - books
 draft: false
+ogImage: ""
 description: Trying something new with the books I read! Wrote a Starship's Mage review a couple years ago, so just trying to see if there's any improvement to my writing at the moment.
 ---
 
