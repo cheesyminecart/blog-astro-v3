@@ -32,7 +32,7 @@ So, as your spaceship approaches the blue planet, automated probes are sent out 
 
 Now, we move on to the **irregular** moons of Uranus. These moons are relatively small (with comparable sizes to the inner Uranian moons). What separates them from the remainder of the Uranian system is that they do not orbit on the orbital ecliptic plane - so they don't orbit on the same 'disc' as the other moons. Some of these moons, in fact, actually rotate the opposite way to Uranus (known as a **retrograde** orbit).
 
-Its been theorised that these moons were centaurs (link 2 article) in the past that were captured by Uranus. It would explain why these planets have extremely eccentric orbits, as well as why all of them are so small. They're curiosities, these ones, and they orbit so far away from Uranus that the planet looks only like a tiny crescent from afar!
+Its been theorised that these moons were [Centaurs](https://thespacer-blog.com/posts/centaurs-and-comets/) in the past that were captured by Uranus. It would explain why these planets have extremely eccentric orbits, as well as why all of them are so small. They're curiosities, these ones, and they orbit so far away from Uranus that the planet looks only like a tiny crescent from afar!
 
 ![Oberon](/blog-images/caliban.jpg)
 
