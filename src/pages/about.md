@@ -11,41 +11,54 @@ A very, very hastily constructed blog!
 
 # About the Author
 
-Hi, I'm Julien, and I'm interested in all sorts of things. This website is dedicated primarily to a lot of the things I find 'fun', such as learning about astronomy, dungeons and dragons, and much more!
+Hi, I'm Julien, and I'm interested in all sorts of things. This website is dedicated primarily to a lot of the things I find 'fun', such as learning about astronomy, dungeons and dragons, and much more! Alongside with writing, I like to scuba dive, do astronomy and swim in my free time.
 
-As of now, I'm a high-schooler studying in Hong Kong, trying to survive the IB. As a result, there might be a bit of a 'gradient' in the quality of each article, and articles written closer to test dates may not also be of the highest quality. I tend not to take it too seriously though - if I'm overwhelmed, I'll just wait until I'm in the frame of mind to proofread effectively. This site, along with my other one, has gone on for 3-ish years by this point, and it has been pivotal in my becoming more confident in my writing ability.
+I'm open to any article suggestions - so long as I haven't heard about it. This website, much like the one below, is meant to serve as documentation for what I have learned during my life.
 
-Also, I'm open to any article suggestions - so long as I haven't heard about it. This website, much like the one below, is meant to serve as documentation for what I have learned during my life.
+# My Other Projects
 
-Outside of scientific writing and the hobbies I've specified above, I like to swim and do various water sports, like diving. I'm also quite protective of my taste in music - absolutely adore Pendulum's music! Lately, I've been experimenting with Jack London's style of descriptive writing - one day, I hope to be able to write my very own space opera series! Am a bit of an amateur worldbuilder at that.
+Aside from this blog, I've also got other things I tend to spend my time on!
 
-## Mindniche
+## MindNiche
 
 In addition to this website, I've got another writing project of mine - namely, [MindNiche](https://mindniche.org). Feel free to check it out - though it should be noted that the website isn't ready to receive guest writers - yet.
 
 Essentially, what happened was that I opened the site to guest writers - and it fell through. I wasn't very good at running a team because I made too many concessions, and writing large volumes of educational can be difficult when you're overwhelmed.
 
-So instead, I'm hoping that I can 'mould' the site through
+So for now, this site will act as a reflection of what I currently know. There is roughly 130,000 tangible words of material on the website as of writing this description (March 2025).
 
-## Contact
+## Solar Schism - My Custom TTRPG World!
 
-Contact me at [](thearchive234@gmail.com)! If you would like to write a guest article, please use the subject line "Guest Writer Application" with the article you've written.
+In addition, I'm developing a custom world for my DND campaign! Having been deeply involved in my school's Dungeons and Dragons clubs, I have been able to gain valuable experience in communicating through acting as a DM. It has encouraged me to develop my own world.
 
-Here's a list of my other socials where you can probably reach me:
+Called "Solar Schism", it is the prequel to the "Falling Stars" world, set in the late-22nd century in a Solar System threatening to tear itself apart. As the next generation of pioneers, you and your party, coming from disparate backgrounds, all share the same goal - to survive the coming schism between the powers of the Solar System.
 
-1. AstroBin: <LinkButton
-   className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
-   href="https://www.astrobin.com/users/cheesyminecart/"
+You can see the odd post about it on this blog - but if I do update it, it'll be sporadic.
 
-   > My Profile</LinkButton>
+## Miscellaneous
 
-2. Medium: <LinkButton
-   className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
-   href="https://medium.com/@cheesyminecart"
+Along with these, here's a list of the things I'm working on / have worked on:
 
-   > My Profile</LinkButton>
+### Physics and Astronomy Competitions
 
-3. Instagram: Medium: <LinkButton
-   className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
-   href="https://www.instagram.com/thespacer_astro/"
-   > My Profile</LinkButton>
+- IAAC 2023 Hong Kong National Award
+- BPhO 2023 Bronze 1 Award
+- BPhO 2023 Online SPC Gold
+- BPhO SPC China Marathon Diamond Award
+- Sir Isaac Newton Distinction
+
+### Research
+
+- In Summer 2024, I was a research intern at the Hong Kong University Laboratory for Space Research (HKU-LSR) where I worked under Dr. Andreas Ritter to model planetary nebulae using SHAPEX.
+
+# Contact Me!
+
+Contact me at [](thearchive234@gmail.com), or connect with me on [LinkedIn](https://www.linkedin.com/in/julien-cheung-066459286/)! If you would like to write a guest article, please use the subject line "Guest Writer Application" when contacting me.
+
+Here's a list of my other socials where you can reach me:
+
+1. [AstroBin](https://www.astrobin.com/users/cheesyminecart/)
+
+2. [Medium](https://medium.com/@cheesyminecart)
+
+3. [Instagram](https://www.instagram.com/thespacer_astro/)
