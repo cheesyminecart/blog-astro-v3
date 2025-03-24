@@ -50,7 +50,7 @@ With the [Late Heavy Bombardment](https://science.nasa.gov/moon/lunar-craters/wh
 
 ![The Early Moon](/blog-images/early-moon.png)
 
-<figcaption style="text-align:center">A rendition of the moon, roughly 100 million years after its formation.</figcaption>
+<figcaption style="text-align:center">A rendition of the moon, roughly 100 million years after its formation. Credit: NASA Goddard</figcaption>
 
 After this, the solar system remained relatively stable, until finally the moon's core As the moon's mantle solidified, the volcanoes went dormant, until the moon's final eruption some 100 million years before humanity took its first steps. This leads us today, where humanity finds itself at the perfect time to explore a barren, lifeless moon.
 
