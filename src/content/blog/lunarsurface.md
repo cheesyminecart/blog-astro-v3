@@ -2,7 +2,7 @@
 author: Julien
 pubDatetime: 2025-03-24T11:01:20.730Z
 modDatetime:
-title: The Lunar Surface - It's Past, Present, and potential Future.
+title: The Lunar Surface - Its Past, Present, and potential Future
 slug: lunar-surface
 featured: true
 draft: false
