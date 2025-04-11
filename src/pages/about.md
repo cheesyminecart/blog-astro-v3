@@ -31,7 +31,7 @@ So for now, this site will act as a reflection of what I currently know. There a
 
 In addition, I'm developing a custom world for my DND campaign! Having been deeply involved in my school's Dungeons and Dragons clubs, I have been able to gain valuable experience in communicating through acting as a DM. It has encouraged me to develop my own world.
 
-Called "Solar Schism", it is the prequel to the "Falling Stars" world, set in the late-22nd century in a Solar System threatening to tear itself apart. As the next generation of pioneers, you and your party, coming from disparate backgrounds, all share the same goal - to survive the coming schism between the powers of the Solar System. A short post detailing my world and a little bit of background will be put on this website, but I'm still hoping to separate the two.
+Called "Solar Schism", it is the prequel to the "Falling Stars" world, set in the late-22nd century in a Solar System threatening to tear itself apart. As the next generation of pioneers, you and your party, coming from disparate backgrounds, all share the same goal - to survive the coming schism between the powers of the Solar System. A short post detailing my world and a little bit of background will be put on this website, but I'm still hoping to separate the two. I know - it's a bad habit to spend so much time worldbuilding, but hey - this world is my oyster.
 
 You can see the odd post about it on this blog - but if I do update it, it'll be sporadic.
 

@@ -26,12 +26,9 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       <p>
         Welcome to my blog! I'm interested in all things astronomy, which you'll
         find evident in all my posts. Want to learn about weird, wacky variable
-        stars or far-flung planets? Come visit.
-        <br />
-      </p>
-      <p>
-        This website is a continuation of my old blog, which will serve as an
-        external archive for my old posts. You can check it out
+        stars or far-flung planets? Then this is the blog for you. This website
+        is a continuation of my old blog, which will serve as an external
+        archive for my old posts. You can check it out
         <LinkButton
           className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
           href="https://shorturl.at/klQ58"
@@ -40,16 +37,19 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         </LinkButton>. It's a bit of a time capsule and the writing's on the
         rougher side, so it's not going to be perfect!
         <br />
+        <br />
       </p>
       <p>
-        If you're here, take a look at this: A persistent project I started
-        inspired by the likes of 3b1b and Khan Academy's written resources.
-        <LinkButton
-          className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
-          href="https://publish.obsidian.md/cheesyminecart/Home"
+        <i
+          >If you're here, take a look at this: A persistent project I started
+          inspired by the likes of 3b1b and Khan Academy's written resources.
+          <LinkButton
+            className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
+            href="https://publish.obsidian.md/cheesyminecart/Home"
+          >
+            this link
+          </LinkButton> to go and peruse the culmination of several years of work!</i
         >
-          this link
-        </LinkButton> to go and peruse the culmination of several months of work!
       </p>
       <div style="align: center; padding:20px">
         <img
@@ -76,8 +76,6 @@ const socialCount = SOCIALS.filter(social => social.active).length;
             style="border:0px;height:36px;white-space:nowrap;"
             ;
             src="https://storage.ko-fi.com/cdn/kofi2.png?v=3"
-            ;
-            border="0"
             ;
             alt="ko-fi button"
           />
