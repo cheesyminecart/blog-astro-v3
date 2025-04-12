@@ -34,7 +34,7 @@ Though Galileo's discoveries of the moon were deemed heretical by the Church, th
 
 Much like on Earth, lunar volcanoes would've erupted when the pressure from the molten rock (magma) under the crust leads to this molten rock forcing its way onto the surface. To create this magma, the moon must've been sufficiently hot in its past, and this heat must've dissipated as time went on. Still, how hot must the moon's core have been if it were to cool beyond the point of tectonic activity?
 
-The answer lies in the mechanism for the moon's formation. Although how the moon formed is still contested, it most likely did so from the torrid ring of debris left over from Earth's collision with [Theia](https://www.science.org/content/article/remains-impact-created-moon-may-lie-deep-within-earth), a mars-sized planetoid from the early solar system. Its core was red-hot, having just been agglomerated. As a result, eruptions, much the same on the young Earth's _Hadean_ period, dominated the lunar surface during this period.
+The answer lies in how the moon formed. Although the precise way it did so is still contested, it most likely did so from the torrid ring of debris left over from Earth's collision with [Theia](https://www.science.org/content/article/remains-impact-created-moon-may-lie-deep-within-earth), a mars-sized planetoid from the early solar system. Its core was red-hot, having just been agglomerated. As a result, eruptions, much the same on the young Earth's _Hadean_ period, dominated the lunar surface during this period.
 
 ![Theia's collision with our Earth!](/blog-images/Theia.png)
 
