@@ -42,7 +42,7 @@ The answer lies in how the moon formed. Although the precise way it did so is st
 
 Volcanoes could explain some of the features we see on the moon's surface. Although there's been several theories to the creation of the dark patches, or _Mares_, some of the most pervasive ones involve several asteroid impacts, differences in cooling rates and - you guessed it - volcanoes. Rock that cools quickly is typically darker than rock which doesn't, which could explain the irregularities in the surface. With the rampant volcanism of any young pseudoplanetary body, lava would cover a large portion of the surface, which would then cool faster than when the moon first formed, creating darker rocks. An inadvertent consequence of the volcanic theory is that the lava coating the moon's surface would've been extremely rich in minerals. Even today, with long-enough exposure time, the different colours reflected by the lunar minerals deposited by these volcanic eruptions can be seen, dazzling in splotches of blue, red, and yellow alike.
 
-![my moon photo](/blog-images/moon-8-stack-crescent-website.jpg)
+![my moon photo](/blog-images/mineral-moon.jpg)
 
 <figcaption style="text-align:center">My stacked moon photo, where red-blue deposits of minerals can be seen.</figcaption>
 
