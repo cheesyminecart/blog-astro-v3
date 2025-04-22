@@ -3,7 +3,7 @@ title: Euclid's Here!
 author: Julien (cheesyminecart)
 pubDatetime: 2023-11-17T21:58:55Z
 slug: euclid-blog
-featured: true
+featured: false
 draft: false
 tags:
   - astronomy

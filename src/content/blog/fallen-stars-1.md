@@ -4,7 +4,7 @@ pubDatetime: 2024-07-19T12:30:04.822Z
 modDatetime:
 title: Dev Blog 1 - Project Announcement
 slug: fallen-stars-upd
-featured: true
+featured: false
 tags:
   - life
   - sideproject
