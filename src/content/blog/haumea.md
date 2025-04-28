@@ -34,7 +34,7 @@ A paper by [Ortiz and Collaborators](https://arxiv.org/pdf/2006.03113) muddles t
 
 <figcaption style="text-align:center">An occultation event, and its associated light curve. Notice the dips in the light from the star.</figcaption>
 
-Though rings around small objects have been sighted - see the case of Chariklo (LINK TO YOU'RE OWN ARTICLE!) - they're still exceedingly rare by all standards. To make this ring system even weirder, it exhibits a 3:1 spin-orbital resonance with Haumea, meaning that for every 3 rotations Haumea completes, the ring completes 1 full orbit.
+Though rings around small objects have been sighted - see the case of [Chariklo](https://thespacer-blog.com/posts/centaurs-and-comets/) - they're still exceedingly rare by all standards. To make this ring system even weirder, it exhibits a 3:1 spin-orbital resonance with Haumea, meaning that for every 3 rotations Haumea completes, the ring completes 1 full orbit.
 
 ![haumea rings](/blog-images/haumea-rings.jpg)
 
